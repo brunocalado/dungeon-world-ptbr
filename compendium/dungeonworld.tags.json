@@ -1,0 +1,299 @@
+{
+  "label": "Rótulos",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": [
+    {
+      "id": "3 armor",
+      "name": "Armadura 3",
+      "description": "<p>Protege-lhe de ferimentos e absorve danos. Quando o personagem sofrer algum dano, subtraia sua armadura do total. Se possuir mais de um item com armadura n, utilize apenas o valor mais alto.</p>"
+    },
+    {
+      "id": "Small",
+      "name": "Pequeno",
+      "description": "<p>Tem o tamanho próximo ao de um halfling.</p>"
+    },
+    {
+      "id": "3 ammo",
+      "name": "Munição 3",
+      "description": "<p>Conta como munição para armas de longo alcance apropriadas. O número indicado não representa a quantidade de flechas ou pedras individuais, mas sim uma quantidade que lhe resta à mão.</p>"
+    },
+    {
+      "id": "3 piercing",
+      "name": "3 Penetrante",
+      "description": "<p>Atravessa armaduras. Quando causar dano com n Penetrante, subtraia n da armadura do alvo apenas durante aquele ataque. </p>"
+    },
+    {
+      "id": "Stun",
+      "name": "Atordoador",
+      "description": "<p>Ataques com essa arma causam dano atordoante no lugar de dano normal.</p>"
+    },
+    {
+      "id": "Thrown",
+      "name": "Arremesso",
+      "description": "<p>Jogue-a em alguém para ferir aquela pessoa. Se disparar com essa arma, você não pode optar por reduzir sua munição com um resultado de 7-9; uma vez que ela foi arremessada, esta arma fi cará indisponível até que consiga pegá-la de volta.</p>"
+    },
+    {
+      "id": "Ignores Armor",
+      "name": "Ignora Armadura",
+      "description": "<p>Não subtraia armadura do dano causado.</p>"
+    },
+    {
+      "id": "+1 forward",
+      "name": "+1 Adiante",
+      "description": "<p>+ Bônus: Modifica a sua efetividade em uma situação específica. Pode ser &rdquo;+1 Adiante para Falar Difícil&rdquo; , ou &rdquo; -1 Adiante para Matar e Pilhar.&rdquo;</p>"
+    },
+    {
+      "id": "Close",
+      "name": "Corpo a Corpo",
+      "description": "<p>É útil para atacar alguém até o alcance de seu braço, mais uns cinquenta ou sessenta centímetros.</p>"
+    },
+    {
+      "id": "2 ammo",
+      "name": "Munição 2",
+      "description": "<p>Conta como munição para armas de longo alcance apropriadas. O número indicado não representa a quantidade de flechas ou pedras individuais, mas sim uma quantidade que lhe resta à mão.</p>"
+    },
+    {
+      "id": "Messy",
+      "name": "Grotesco",
+      "description": "<p>Causa danos de uma forma particularmente destrutiva, destroçando coisas e pessoas.</p>"
+    },
+    {
+      "id": "Cautious",
+      "name": "Cuidadoso",
+      "description": "<p>Preza a sobrevivência acima da agressividade.</p>"
+    },
+    {
+      "id": "+1 armor",
+      "name": "Armadura +1",
+      "description": "<p> Protege-lhe e soma à outras armaduras. Adicione este valor à sua armadura total.</p>"
+    },
+    {
+      "id": "Stealthy",
+      "name": "Furtivo",
+      "description": "<p>Consegue evitar sua detecção e prefere atacar com o elemento\nsurpresa.</p>"
+    },
+    {
+      "id": "Large",
+      "name": "Grande",
+      "description": "<p>É bem maior que um humano, mais ou menos do tamanho de uma carroça.</p>"
+    },
+    {
+      "id": "Clumsy",
+      "name": "Desengonçado",
+      "description": "<p>É  difícil se mover usando isso. -1 constante enquanto estiver vestindo. A penalidade é cumulativa.</p>"
+    },
+    {
+      "id": "-1 forward",
+      "name": "-1 Adiante",
+      "description": "<p>+ Bônus: Modifica a sua efetividade em uma situação específica. Pode ser &rdquo;+1 Adiante para Falar Difícil&rdquo; , ou &rdquo; -1 Adiante para Matar e Pilhar.&rdquo;</p>"
+    },
+    {
+      "id": "+2 damage",
+      "name": "+2 de Dano",
+      "description": "<p>É particularmente danosa para seus inimigos. Quando causar dano, some n a ele.</p>"
+    },
+    {
+      "id": "Two-handed",
+      "name": "Duas Mãos",
+      "description": "<p>Precisa ser utilizado com duas mãos.</p>"
+    },
+    {
+      "id": "Requires Dwarf",
+      "name": "Necessita Anão",
+      "description": "<p>É útil apenas para certas pessoas. Se você não tem os requisitos o item tem um desempenho ruim. Isso se funcionar.</p>"
+    },
+    {
+      "id": "Huge",
+      "name": "Enorme",
+      "description": "<p>É tão grande quanto uma casa, ou maior.</p>"
+    },
+    {
+      "id": "1 armor",
+      "name": "Armadura 1",
+      "description": "<p>Protege-lhe de ferimentos e absorve danos. Quando o personagem sofrer algum dano, subtraia sua armadura do total. Se possuir mais de um item com armadura n, utilize apenas o valor mais alto.</p>"
+    },
+    {
+      "id": "Terrifying",
+      "name": "Terrível",
+      "description": "<p>Sua presença e aparência provocam medo.</p>"
+    },
+    {
+      "id": "Precise",
+      "name": "Preciso",
+      "description": "<p>Recompensa ataques cuidadosos. Use DES para matar e pilhar com esta arma, e não FOR.</p>"
+    },
+    {
+      "id": "Group",
+      "name": "Grupo",
+      "description": "<p>Normalmente encontrado em pequenos números, aproximadamente 3 a 6.</p>"
+    },
+    {
+      "id": "Planar",
+      "name": "Planar",
+      "description": "<p>Veio de fora deste mundo.</p>"
+    },
+    {
+      "id": "1 ammo",
+      "name": "Munição 1",
+      "description": "<p>Conta como munição para armas de longo alcance apropriadas. O número indicado não representa a quantidade de flechas ou pedras individuais, mas sim uma quantidade que lhe resta à mão.</p>"
+    },
+    {
+      "id": "Solitary",
+      "name": "Solitário",
+      "description": "<p>Vive e luta sozinho.</p>"
+    },
+    {
+      "id": "Devious",
+      "name": "Traçoeiro",
+      "description": "<p>Sua maior ameaça se encontra além do simples clamor da batalha.</p>"
+    },
+    {
+      "id": "2 armor",
+      "name": "Armadura 2",
+      "description": "<p>Protege-lhe de ferimentos e absorve danos. Quando o personagem sofrer algum dano, subtraia sua armadura do total. Se possuir mais de um item com armadura n, utilize apenas o valor mais alto.</p>"
+    },
+    {
+      "id": "Hand",
+      "name": "Mão",
+      "description": "<p>É útil para atacar alguém dentro de seu alcance, e nada mais.</p>"
+    },
+    {
+      "id": "1 piercing",
+      "name": "1 Penetrante",
+      "description": "<p>Atravessa armaduras. Quando causar dano com n Penetrante, subtraia n da armadura do alvo apenas durante aquele ataque.</p>"
+    },
+    {
+      "id": "+3 damage",
+      "name": "+3 de Dano",
+      "description": "<p>É particularmente danosa para seus inimigos. Quando causar dano, some n a ele.</p>"
+    },
+    {
+      "id": "Dangerous",
+      "name": "Perigoso",
+      "description": "<p>É fácil algo dar errado durante o uso do item. Se interagir com ele sem as devidas precauções, o MJ poderá livremente invocar algumas consequências para suas ações tolas.</p>"
+    },
+    {
+      "id": "Requires",
+      "name": "Necessita",
+      "description": "<p>É útil apenas para certas pessoas. Se você não tem os requisitos o item tem um desempenho ruim. Isso se funcionar.</p>"
+    },
+    {
+      "id": "Applied",
+      "name": "Aplicado",
+      "description": "<p>Somente é útil quando aplicado cuidadosamente em uma pessoa, ou a algo que ela coma ou beba.</p>"
+    },
+    {
+      "id": "Horde",
+      "name": "Horda",
+      "description": "<p>Onde existe um, existem mais. Muitos mais.</p>"
+    },
+    {
+      "id": "Slow",
+      "name": "Lento",
+      "description": "<p>Demora pelo menos alguns minutos para ser usado.</p>"
+    },
+    {
+      "id": "+1 damage",
+      "name": "+1 de Dano",
+      "description": "<p>É particularmente danosa para seus inimigos. Quando causar dano, some n a ele.</p>"
+    },
+    {
+      "id": "Tiny",
+      "name": "Minúsculo",
+      "description": "<p>É bem menor do que um halfling.</p>"
+    },
+    {
+      "id": "4 ammo",
+      "name": "Munição 4",
+      "description": "<p>Conta como munição para armas de longo alcance apropriadas. O número indicado não representa a quantidade de flechas ou pedras individuais, mas sim uma quantidade que lhe resta à mão.</p>"
+    },
+    {
+      "id": "Reach",
+      "name": "Alcance",
+      "description": "<p>É útil para atacar algo que esteja a alguns poucos metros de distância, talvez uns três.</p>"
+    },
+    {
+      "id": "Far",
+      "name": "Distante",
+      "description": "<p>É útil para atacar alguém a distância de um grito.</p>"
+    },
+    {
+      "id": "Touch",
+      "name": "Toque",
+      "description": "<p>Para funcionar, é necessário que toque a pele do alvo.</p>"
+    },
+    {
+      "id": "Hoarder",
+      "name": "Acumulador",
+      "description": "<p>É quase certo que tenha tesouros.</p>"
+    },
+    {
+      "id": "Near",
+      "name": "Próximo",
+      "description": "<p>É útil para atacar se você poder ver o branco dos olhos de seu inimigo.</p>"
+    },
+    {
+      "id": "2 piercing",
+      "name": "2 Penetrante",
+      "description": "<p>Atravessa armaduras. Quando causar dano com n Penetrante, subtraia n da armadura do alvo apenas durante aquele ataque.</p>"
+    },
+    {
+      "id": "Construct",
+      "name": "Construto",
+      "description": "<p>Foi feito, e não nascido.</p>"
+    },
+    {
+      "id": "Intelligent",
+      "name": "Inteligente",
+      "description": "<p>Esperto o suficiente para que alguns indivíduos sejam capazes de aprender algumas habilidades.</p>"
+    },
+    {
+      "id": "-1 ongoing",
+      "name": "-1 Constante"},
+    {
+      "id": "Organized",
+      "name": "Organizado",
+      "description": "<p>Possui uma estrutura grupal capaz de aumentar suas chances de sobrevivência. A derrota de um pode causar a fúria dos outros. Um deles pode soar alarmes.</p>"
+    },
+    {
+      "id": "Worn",
+      "name": "Vestido",
+      "description": "<p>Para usar o item, é necessário vesti-lo.</p>"
+    },
+    {
+      "id": "Awkward",
+      "name": "Desajeitado",
+      "description": "<p>É difícil de segurar e de usar.</p>"
+    },
+    {
+      "id": "+1 ongoing",
+      "name": "+1 Constante"},
+    {
+      "id": "Amorphous",
+      "name": "Amorfo",
+      "description": "<p>Sua anatomia e órgãos internos são bizarros e anormais.</p>"
+    },
+    {
+      "id": "Magical",
+      "name": "Mágico",
+      "description": "<p>A criatura é naturalmente mágica.</p>"
+    },
+    {
+      "id": "Forceful",
+      "name": "Poderoso",
+      "description": "<p>Pode jogar o alvo para trás, e talvez até mesmo derrubá-lo.</p>"
+    },
+    {
+      "id": "Reload",
+      "name": "Recarga",
+      "description": "<p>Após atacar com ela, você precisa de mais do que apenas um momento para reposicionar a arma para um novo ataque.</p>"
+    },
+    {
+      "id": "Ration",
+      "name": "Ração",
+      "description": "<p>É comestível, ou praticamente comestível.</p>"
+    }
+  ]
+}

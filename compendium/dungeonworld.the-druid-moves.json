@@ -1,0 +1,132 @@
+{
+  "label": "Movimentos do Druida",
+  "mapping": {
+    "description": "system.description",
+    "requiresMove": "system.requiresMove"
+  },
+  "entries": [
+    {
+      "id": "The Druid Sleep",
+      "name": "O Sono do Druida",
+      "description": "<p>Quando escolher este movimento, na próxima oportunidade em que estiver à salvo e puder passar algum tempo em um local apropriado, você pode se ligar a uma nova terra. Este efeito acontece apenas uma vez e o MJ lhe dirá quanto tempo vai levar e qual o preço que você deverá pagar. Daquele momento em diante, você será considerado nascido do solo de ambas as terras.</p>"
+    },
+    {
+      "id": "Shapeshifter",
+      "name": "Metamorfose",
+      "description": "<p>Quando <strong>chamar os espíritos para mudar sua forma</strong>, role+SAB. Com 10+, domínio 3. Com , domínio 2. Com 7-9, domínio 1 além de qualquer outra coisa defi nida pelo MJ.</p>\n<p>Você consegue assumir a forma de qualquer espécie cuja essência tenha estudado ou que viva em sua terra, fundindo sua própria forma e seus pertences em uma cópia perfeita da espécie desejada. Com isso, você adquire quaisquer habilidades e fraquezas inatas do animal: garras, asas, guelras, respirar na água e não no ar. Continue usando suas próprias características, mas alguns movimentos podem se tornar mais complicados de serem iniciados – um gato doméstico terá difi culdades em combater um ogro. O MJ também lhe informará a respeito de um ou mais movimentos associados à sua nova forma. <strong>Gaste 1 domínio para realizar aquele movimento</strong>. Assim que seu domínio se esgotar, você retorna à sua forma natural. É possível fazer isso também gastando todo o seu domínio.</p>"
+    },
+    {
+      "id": "Chimera",
+      "name": "Quimera",
+      "description": "<p>Quando se <strong>metamorfosear</strong>, você pode criar uma forma mista que reúne até três formas diferentes. É possível tornar-se um urso com asas de águia e a cabeça de um bode, por exemplo. Cada característica lhe concederá um movimento diferente. Sua forma quimérica segue normalmente as outras regras de metamorfose.</p>"
+    },
+    {
+      "id": "Stalker's Sister",
+      "name": "Irmã do Espreitador",
+      "description": "<p>Escolha um movimento da lista de classe do ranger.</p>"
+    },
+    {
+      "id": "Formcrafter",
+      "name": "Criador de Formas",
+      "description": "<p>Quando se metamorfosear, escolha uma habilidade: você recebe +1 constante em rolamentos que a utilizem enquanto mantiver a outra forma. O MJ também vai escolher uma habilidade, e você receberá -1 constante nela enquanto permanecer metamorfoseado.</p>"
+    },
+    {
+      "id": "Balance",
+      "name": "Equilíbrio",
+      "description": "<p>Quando <strong>causar dano</strong>, receba equilíbrio 1. Quando tocar alguém e canalizar os espíritos da vida, você poderá gastar equilíbrio. Para cada equilíbrio gasto, cure 1d4 PV.</p>"
+    },
+    {
+      "id": "Blood and Thunder",
+      "name": "Sangue e Trovão",
+      "description": "<p>Quando <strong>estiver em uma forma animal apropriada</strong> (alguma bem perigosa), aumente seu dano para d10.</p>\n<p>Rolamento de dano: [[/roll 1d10]]</p>",
+      "requiresMove": "Garras e Dentes Vermelhos"
+    },
+    {
+      "id": "Embracing No Form",
+      "name": "Adotar Forma Alguma",
+      "description": "<p>Quando se <strong>metamorfosear</strong>, role 1d4 e some o resultado ao seu domínio.</p>"
+    },
+    {
+      "id": "Born of the Soil",
+      "name": "Nascido do Solo",
+      "description": "<p>Você aprendeu sua magia em um local cujos espíritos são poderosos e antigos, e eles o marcaram como um deles. Independente de onde vá, eles vivem dentro de você, e o permitirão assumir suas formas. Escolha uma das opções a seguir – ela representa a terra a qual você se encontra ligado. Sempre que se metamorfosear, você será capaz de assumir a forma de qualquer animal que vive em sua terra.</p>\n<ul>\n<li>• A Grande Floresta</li>\n<li>• As Planícies Sussurrantes</li>\n<li>• O Vasto Deserto</li>\n<li>• O Lamaçal Fedorento</li>\n<li>• O Delta do Rio</li>\n<li>• As Profundezas da Terra</li>\n<li>• As Ilhas de Safira</li>\n<li>• O Mar Aberto</li>\n<li>• As Montanhas Elevadas</li>\n<li>• O Norte Gelado</li>\n<li>• A Terra Devastada</li>\n</ul>\n<p>Escolha uma marca – um atributo físico que o identifi ca como um nascido do solo. Pode ser uma característica animal como antenas, ou as manchas de um leopardo, ou algo mais genérico, como cabelos que se parecem com folhas, ou olhos de cristal brilhante. Sua marca permanece independentemente da forma que assumir.</p>"
+    },
+    {
+      "id": "Formshaper",
+      "name": "Moldador de Formas",
+      "description": "<p>Você pode aumentar sua armadura em 1 ou causar +1d4 de dano quando estiver em uma forma animal. Escolha um dos dois quando se metamorfosear.</p>\n<p>Rolamento bônus de dano: [[/roll 1d4]] </p>",
+      "requiresMove": "Criador de Formas"
+    },
+    {
+      "id": "Barkskin",
+      "name": "Pele de Madeira",
+      "description": "<p>Enquanto seus pés estiverem tocando o solo, receba +1 de armadura.</p>"
+    },
+    {
+      "id": "Spirit Tongue",
+      "name": "Linguagem dos Espíritos",
+      "description": "<p>Os grunhidos, latidos, guinchos e chamados das criaturas selvagens são uma forma de linguagem para você. Você é capaz de compreender qualquer animal nativo da sua terra ou que seja similar a algum cuja essência tenha estudado.</p>"
+    },
+    {
+      "id": "Thing-talker",
+      "name": "Falar com Coisas",
+      "description": "<p>Você enxerga os espíritos da areia, do mar e da pedra, e pode agora aplicar sua linguagem dos espíritos, metamorfose e estudar essência em objetos inanimados naturais (plantas e rochas) ou criaturas criadas, assim como faz com os animais. As formas adotadas por aqueles que podem falar com coisas podem ser cópias exatas ou vagamente humanoides e móveis.</p>"
+    },
+    {
+      "id": "Communion of Whispers",
+      "name": "Comunhão do Sussurros",
+      "description": "<p>Quando <strong>passar algum tempo em um local</strong>, observando seus espíritos residentes e convocando os espíritos de sua terra, role+SAB. Você receberá uma visão importante a respeito de si próprio, de seus aliados, e dos espíritos ao seu redor. Com 10+, a visão será clara e útil. Com 7-9, a visão é pouco clara, e seu significado nebuloso. Com 6-, a visão é incômoda, aterrorizante ou traumatizante. O MJ irá descrevê-la. Receba -1 adiante.</p>"
+    },
+    {
+      "id": "Red of Tooth and Claw",
+      "name": "Garras e Dentes Vermelhos",
+      "description": "<p>Quando <strong>estiver em uma forma animal apropriada</strong> (alguma bem perigosa), aumente seu dano para d8.</p>"
+    },
+    {
+      "id": "Elemental Mastery",
+      "name": "Maestria Elemental",
+      "description": "<p>Quando <strong>invocar os espíritos primordiais</strong> do fogo, água, terra, ou ar para realizar uma tarefa em seu nome, role+SAB. Com 10+, escolha 2. Com 7-9, escolha 1. Com 6-, seu chamado resulta em alguma catástrofe.</p>\n<p>• O efeito desejado ocorre</p>\n<p>• Você evita pagar o preço cobrado pela natureza</p>\n<p>• Você permanece no controle da situação </p>"
+    },
+    {
+      "id": "Weather Weaver",
+      "name": "Tecer o Clima",
+      "description": "<p>Quando <strong>se encontrar sob o céu aberto enquanto o sol estiver nascendo</strong>, o MJ lhe perguntará como será o clima ao longo daquele dia. Diga o que quiser, e isso irá acontecer.</p>"
+    },
+    {
+      "id": "By Nature Sustained",
+      "name": "Nutrido pela Natureza",
+      "description": "<p>Você não precisa comer ou beber nada. Se um movimento exigir que você marque uma ração, simplesmente ignore isso.</p>"
+    },
+    {
+      "id": "Hunter's Brother",
+      "name": "Irmão do Caçador",
+      "description": "<p>Escolha um movimento da lista de classe do ranger.</p>"
+    },
+    {
+      "id": "Eyes of the Tiger",
+      "name": "Olhos do Tigre",
+      "description": "<p>Quando <strong>marcar um animal</strong> (com lama, poeira ou sangue) você poderá enxergar através dos olhos dele como se fossem os seus, independentemente da distância que os separar. Apenas um animal pode ser marcado dessa forma por vez.</p>"
+    },
+    {
+      "id": "Shed",
+      "name": "Trocar a Pele",
+      "description": "<p>Quando <strong>receber danos enquanto estiver metamorfoseado</strong>, você pode optar por retornar à sua forma natural para negar todo o dano.</p>"
+    },
+    {
+      "id": "Studied Essence",
+      "name": "Essência Estudada",
+      "description": "<p>Quando passar algum tempo contemplando um espírito animal, você pode adicioná-lo às espécies cuja forma é capaz de assumir através de metamorfose.</p>"
+    },
+    {
+      "id": "Doppleganger's Dance",
+      "name": "Dança do Dopplegänger",
+      "description": "<p>Você se torna capaz de estudar a essência de indivíduos específicos e assumir suas formas exatas, incluindo homens, elfos e similares. É possível suprimir sua marca, mas se o fizer, receba -1 constante até retornar à sua própria forma.</p>"
+    },
+    {
+      "id": "World-talker",
+      "name": "Falar com o Mundo",
+      "description": "<p>Você consegue enxergar os padrões que formam o tecido do mundo, e torna-se capaz de aplicar sua linguagem dos espíritos, metamorfose e estudar essência aos elementos puros – fogo, água, ar e terra.</p>",
+      "requiresMove": "Falar com Coisas"
+    }
+  ]
+}

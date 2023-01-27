@@ -1,0 +1,113 @@
+{
+  "label": "Movimentos Básicos",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": [
+    {
+      "id": "Carouse",
+      "name": "Farrear",
+      "description": "<p>Quando <strong>retornar triunfante e fizer uma grande festa</strong>, gaste 100 moedas e role+1 para cada 100 moedas extras gastas. Com 10+, escolha 3. Com 7-9, escolha 1. Com um 6-, ainda escolha 1, mas as coisas vão sair totalmente de controle (o MJ dirá como).</p>\n<p>• Torne-se amigo de um PNJ útil;</p>\n<p>• Você ouve rumores a respeito de uma boa oportunidade;</p>\n<p>• Você adquire informações úteis;</p>\n<p>• Você não é preso, enfeitiçado ou enganado</p>"
+    },
+    {
+      "id": "Defy Danger",
+      "name": "Desafiar o Perigo",
+      "description": "<p>Quando <strong>agir apesar de qualquer perigo iminente ou sofrer alguma calamidade</strong>, diga como lidará com a situação e role. Se o fizer...</p>\n<p>• … à força, +FOR;</p>\n<p>• … saindo do caminho ou agindo rápido, +DES;</p>\n<p>• … resistindo, +CON;</p>\n<p>• … com pensamento rápido, +INT;</p>\n<p>• … pela fortitude mental, +SAB;</p>\n<p>• … usando charme e trato social, +CAR.</p>\n<p>Com 10+, realize o que pretendia sem ser afetado pela ameaça. Com 7-9, você tropeça, hesita, ou se contorce: o MJ lhe oferecerá um resultado pior, uma barganha difícil ou uma escolha desagradável.</p>"
+    },
+    {
+      "id": "Recruit",
+      "name": "Recrutar",
+      "description": "<p>Quando <strong>espalhar por aí que está procurando um ajudante para contratar</strong>, role:</p>\n<p>• +1 se disser que o pagamento é generoso;</p>\n<p>• +1 se disser exatamente o que pretende fazer;</p>\n<p>• +1 se disser que ficarão com uma parte do que for encontrado;</p>\n<p>• +1 se sua reputação for boa por essas bandas.\nCom 10+, você consegue vários interessados habilidosos, escolhe quem vai contratar, e não recebe qualquer penalidade se não quiser levá-los consigo. Com 7-9, você terá que se contentar com alguém perto do que queria, ou mandá-los embora. Com um 6-, alguém influente, porém bastante incapaz, dirá que quer acompanhá-lo (um jovem corajoso, alguém com um parafuso solto, ou um inimigo secreto, por exemplo). Leve-o e aguente as consequências ou mande-o embora. Caso mande algum interessado embora, receba -1 adiante para recrutar.</p>"
+    },
+    {
+      "id": "Supply",
+      "name": "Abastecer",
+      "description": "<p>Quando <strong>for comprar alguma coisa com ouro</strong>, caso seja algo facilmente disponível no local onde você se encontra, compre a preço de mercado. Se for algo especial, além do que está normalmente disponível, ou não mundano, role+CAR. Com 10+ você encontra o que está procurando a um preço justo. Com 7-9, você precisa pagar mais que o necessário, ou se contentar com algo que não é exatamente o que está procurando, mas quase. O MJ lhe dirá quais são suas opções.</p>"
+    },
+    {
+      "id": "Outstanding Warrants",
+      "name": "Mandatos Pendentes",
+      "description": "<p>Quando <strong>retornar a um local civilizado no qual tenha causado problemas anteriormente</strong>, role+CAR. Com , todos já ouviram falar de seus atos e você é facilmente reconhecido. Com 10+, o mesmo acontece, porém o MJ escolhe uma complicação:</p>\n<p>• O xerife local tem um mandado para sua prisão;</p>\n<p>• Alguém colocou um preço em sua cabeça;</p>\n<p>• Alguém importante para você está em uma situação difícil como resultado de suas ações.</p>"
+    },
+    {
+      "id": "Make Camp",
+      "name": "Preparar Acampamento",
+      "description": "<p>Quando <strong>parar para descansar</strong>, consuma uma ração. Se estiver em algum lugar perigoso, decida a ordem dos turnos de guarda. Se possuir XP suficiente, você pode avançar de nível. Quando acordar de algumas horas de sono ininterrupto, cure uma quantidade de dano igual à metade de seus PV máximos.</p>"
+    },
+    {
+      "id": "Last Breath",
+      "name": "Último Suspiro",
+      "description": "<p>Quando estiver <strong>morrendo</strong>, vislumbre o que existe além dos Portões Negros do Reino da Morte (o MJ lhe fará uma descrição), e depois role (simplesmente role, sem +Nada – a Morte não liga para o quão durão ou legal você é). Com 10+ você engana a morte – continua em uma situação difícil, mas não estará morto. Com 7-9 a própria Morte lhe oferecerá uma barganha – aceite-a para se estabilizar, ou recuse-a e atravesse os Portões Negros para encontrar o que quer que o destino lhe tenha reservado. Com 6-, seu destino estará selado. Você foi marcado como propriedade da Morte e irá cruzar seus limites logo. O MJ lhe dirá quando.</p>"
+    },
+    {
+      "id": "Aid or Interfere",
+      "name": "Ajudar ou Interferir",
+      "description": "<p>Quando <strong>quiser ajudar ou atrapalhar alguém</strong>, role+Vínculo que possua com essa pessoa. Com 10+, aquele personagem recebe +1 ou -2, à sua escolha, em sua rolagem. Com 7-9, os modificadores ainda são aplicados, mas você também se expõe ao perigo, retribuição, ou custo de sua ação.</p>"
+    },
+    {
+      "id": "Take Watch",
+      "name": "Montar Guarda",
+      "description": "<p>Quando <strong>estiver de guarda e alguma coisa se aproximar do acampamento</strong>, role+SAB. Com 10+, você consegue acordar seus companheiros em tempo de preparar uma reação, e todos no acampamento recebem +1 adiante. Com 7-9 você reage um pouco tarde demais – seus companheiros no acampamento serão acordados, mas não terão tempo suficiente para se preparar. Todos estarão com suas armas e armaduras, mas nada além disso. Com um erro, o que quer que esteja se esgueirando além do limite da luz da fogueira terá uma vantagem sobre você.</p>"
+    },
+    {
+      "id": "Hack & Slash",
+      "name": "Matar e Pilhar",
+      "description": "<p>Quando <strong>atacar um adversário em combate corpo a corpo</strong>, role+FOR. Com 10+, cause dano ao adversário e evite seu ataque. Opcionalmente, você pode causar +1d6 de dano, expondo-se ao contra ataque. Com 7-9, cause dano ao adversário, e ele fará um ataque contra você.</p>"
+    },
+    {
+      "id": "Encumbrance",
+      "name": "Sobrecarga",
+      "description": "<p>Quando <strong>fizer um movimento enquanto carrega algum peso</strong> você pode estar sobrecarregado. Caso o peso que você esteja carregando seja:</p>\n<p>• igual ou menor à sua Carga, você não sofrerá quaisquer penalidades</p>\n<p>• igual à sua Carga+1 ou Carga+2, receba -1 constante até que alivie sua carga</p>\n<p>• maior que sua Carga+2, você tem uma escolha: jogue no chão pelo menos 1 de peso e role com -1, ou falhe automaticamente</p>"
+    },
+    {
+      "id": "Discern Realities",
+      "name": "Discernir Realidades",
+      "description": "<p>Quando <strong>inspecionar cuidadosamente uma situação ou pessoa</strong>, role+SAB. Com 10+ faça ao MJ 3 das perguntas listadas abaixo. Com um 7-9, faça 1. De qualquer forma, receba +1 adiante quando agir de acordo com as respostas.</p>\n<p>• O que aconteceu aqui recentemente?</p>\n<p>• O que está para acontecer aqui agora?</p>\n<p>• O que eu deveria procurar por aqui?</p>\n<p>• O que eu considero útil ou valioso aqui?</p>\n<p>• Quem realmente está no controle aqui?</p>\n<p>• O que não é realmente o que parece aqui?</p>"
+    },
+    {
+      "id": "Undertake A Perilous Journey",
+      "name": "Empreender uma Jornada Perigosa",
+      "description": "<p>Quando <strong>viajar por um território hostil</strong>, escolha um membro do grupo para ser o desbravador, outro para ser o batedor, e outro para ser o contramestre. Cada personagem rola+SAB. Com 10+:</p>\n<p>• o contramestre reduz a quantidade de rações necessárias em 1;</p>\n<p>• o desbravador reduz a quantidade de tempo necessária para alcançar o destino (o MJ dirá o quanto);</p>\n<p>• o batedor vai notar qualquer perigo rápido o bastante para que vocês obtenham vantagem.</p>\n<p>Com 7-9, cada personagem desempenhará seu papel como esperado: a quantidade normal de rações será consumida, a jornada demorará o tempo esperado, e ninguém consegue surpreender o grupo, mas ninguém também será surpreendido.</p>"
+    },
+    {
+      "id": "Parley",
+      "name": "Negociar",
+      "description": "<p>Quando <strong>possuir alguma influência sobre personagens do MJ e quiser manipulá-los</strong>, role+CAR. Influência quer dizer algo de que eles precisem ou queiram. Com 10+, eles farão o que você pedir, caso você primeiro garanta lhe conceder o que eles pedirem. Com 7-9, eles farão o que você pede, mas exigirão alguma garantia concreta e imediata de sua promessa.</p>"
+    },
+    {
+      "id": "Defend",
+      "name": "Defender",
+      "description": "<p>Quando <strong>se posicionar para defender uma pessoa, objeto ou lugar</strong> sob ataque, role+CON. Com 10+, domínio 3. Com 7-9, domínio 1. Enquanto permanecer na defensiva, sempre que você ou aquilo que estiver defendendo sofrer um ataque, gaste domínio para escolher uma das opções abaixo, na razão de 1 ponto de domínio por opção:</p>\n<p>• Redirecione um ataque realizado contra a pessoa, objeto ou lugar sob sua proteção para você;</p>\n<p>• Reduza o efeito ou dano do ataque pela metade;</p>\n<p>• Abra as defesas do atacante, oferecendo a um aliado +1 adiante contra ele;</p>\n<p>• Cause ao atacante uma quantidade de dano igual ao seu nível.</p>"
+    },
+    {
+      "id": "Volley",
+      "name": "Disparar",
+      "description": "<p>Quando <strong>mirar uma arma e dispará-la contra um adversário à distância</strong>, role+DES. Com 10+, você conseguiu um tiro preciso - cause seu dano. Com 7-9, escolha um (cause dano independentemente da escolha):</p>\n<p>• Você é forçado a se mover para conseguir uma linha de tiro, colocando-se em perigo conforme escolha do MJ;</p>\n<p>• Você é forçado a disparar de qualquer jeito: -1d6 de dano;</p>\n<p>• Você é forçado a disparar várias vezes, reduzindo sua munição em 1.</p>"
+    },
+    {
+      "id": "Level Up",
+      "name": "Avançar Nível",
+      "description": "<p>Quando <strong>estiver em inatividade (por horas ou dias) e possuir uma quantidade de XP igual (ou superior) ao seu nível atual + 7</strong>, você poderá refletir a respeito de suas experiências e aperfeiçoar suas habilidades.</p>\n<p>• Subtraia seu nível atual + 7 de seu XP;</p>\n<p>• Aumente seu nível em 1</p>\n<p>• Escolha um novo movimento avançado de sua classe;</p>\n<p>• Se for o Mago, também poderá adicionar uma nova magia ao seu grimório.</p>\n<p>• Escolha uma de suas Habilidades e a aumente em 1 (isso pode também aumentar seu modificador). Mudar sua Constituição também aumenta seus PV máximos e atuais. Valores de habilidades não podem ultrapassar 18.</p>"
+    },
+    {
+      "id": "End of Session",
+      "name": "Encerrar Sessão",
+      "description": "<p>Quando <strong>chegar ao final da sessão</strong>, escolha um de seus Vínculos que lhe pareça resolvido (ou seja, que esteja completamente explorado, que tenha se tornado irrelevante, etc.). Pergunte ao jogador do personagem com o qual você compartilha o vínculo se ele concorda. Em caso positivo, marque XP e escreva um novo Vínculo com quem quiser. Assim que os Vínculos forem atualizados, observe seu alinhamento. Caso tenha agido de acordo com ele pelo menos uma vez na sessão, marque XP. Em seguida, os jogadores devem responder às três questões abaixo coletivamente:</p>\n<p>• Nós aprendemos algo novo e importante a respeito do mundo?</p>\n<p>• Nós sobrepujamos algum monstro ou inimigo notável?</p>\n<p>• Nós saqueamos algum tesouro memorável?</p>\n<p>Para cada resposta “sim”, todos marcam XP.</p>"
+    },
+    {
+      "id": "Spout Lore",
+      "name": "Falar Difícil",
+      "description": "<p>Quando <strong>consultar seu conhecimento acumulado a respeito de alguma coisa</strong>, role+INT. Com 10+ o MJ lhe dirá alguma coisa interessante e útil a respeito do assunto. Com 7-9 o MJ lhe dirá apenas alguma coisa interessante, e caberá a você torná-la útil. O MJ pode lhe perguntar “Como você sabia disso?”. Diga a verdade!</p>"
+    },
+    {
+      "id": "Bolster",
+      "name": "Preparar",
+      "description": "<p>Quando <strong>gastar seu tempo estudando, meditando ou praticando intensamente, você recebe preparo</strong>. Caso se prepare por uma semana ou duas, receba 1 de preparo. Caso se prepare por 1 mês ou mais, receba 3. Quando toda essa preparação valer a pena, gaste 1 de preparo para receber +1 em um rolamento qualquer. Você somente pode gastar 1 de preparo por rolagem.</p>"
+    },
+    {
+      "id": "Recover",
+      "name": "Recuperar-se",
+      "description": "<p>Quando <strong>não fizer nada além de descansar confortavelmente em segurança</strong>, após um dia de descanso, recupere todos os seus PV. Após 3 dias de descanso, remova uma debilidade à sua escolha. Se estiver sob os cuidados de um curandeiro (mágico ou não), então cure uma debilidade a cada dois dias de descanso.</p>"
+    }
+  ]
+}

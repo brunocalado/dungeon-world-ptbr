@@ -1,0 +1,124 @@
+{
+  "label": "Movimentos do Ranger",
+  "mapping": {
+    "description": "system.description",
+    "requiresMove": "system.requiresMove"
+  },
+  "entries": [
+    {
+      "id": "Multiclass Dabbler",
+      "name": "Amador em Multiclasse",
+      "description": "<p>Escolha e adquira um movimento de outra classe. Para escolha do movimento, considere como se tivesse 1 nível a menos.</p>"
+    },
+    {
+      "id": "Blacksmith",
+      "name": "Ferreiro",
+      "description": "<p>Quando <strong>tiver acesso a uma forja</strong>, você pode transferir os poderes mágicos de uma arma para sua arma favorita. Este processo destrói a arma mágica. Sua arma favorita adquire os poderes mágicos da arma destruída.</p>"
+    },
+    {
+      "id": "Heirloom",
+      "name": "Relíquia de Família",
+      "description": "<p>Quando <strong>consultar os espíritos que residem dentro de sua arma favorita</strong>, role+CAR. Eles irão lhe revelar alguma coisa a respeito de sua situação atual, e podem lhe perguntar alguma coisa em retorno. Com 10+, o MJ vai lhe dar muitos detalhes. Com 7-9, ele lhe dará apenas uma vaga impressão.</p>"
+    },
+    {
+      "id": "Iron Hide",
+      "name": "Pele de Ferro",
+      "description": "<p>Você recebe +1 de Armadura.</p>"
+    },
+    {
+      "id": "Armored",
+      "name": "Fortificado",
+      "description": "<p>Ignore o rótulo desengonçada em qualquer armadura que você vestir.</p>"
+    },
+    {
+      "id": "Interrogator",
+      "name": "Inquisitor",
+      "description": "<p>Quando <strong>negociar usando ameaças de violência iminente</strong> como influência, você pode usar FOR no lugar de CAR.</p>"
+    },
+    {
+      "id": "Improved Weapon",
+      "name": "Arma Melhorada",
+      "description": "<p>Escolha uma melhoria extra para sua arma favorita.</p>"
+    },
+    {
+      "id": "Bloodthirsty",
+      "name": "Sede de Sangue",
+      "description": "<p>Quando <strong>causar dano</strong>, cause +1d8 de dano.</p>\n<p>Rolagem adicional de dano: [[/roll 1d8]]</p>",
+      "requiresMove": "Implacável"
+    },
+    {
+      "id": "Evil Eye",
+      "name": "Mau Olhado",
+      "description": "<p>Quando <strong>entrar em combate</strong>, role+CAR. Com 10+, domínio 2. Com 7-9, domínio 1. Gaste seu domínio para fazer contato visual com um PNJ próximo. Ele ficará congelado ou hesitante, e impedido de agir até que você rompa o contato. Com 6-, seus inimigos imediatamente o identificam como sua maior ameaça.</p>",
+      "requiresMove": "Visão Rubra"
+    },
+    {
+      "id": "Bend Bars, Lift Gates",
+      "name": "Dobrar Barras, Suspender Portais",
+      "description": "<p>Quando <strong>usar força bruta para destruir um objeto inanimado</strong>, role+FOR. Com 10+, escolha 3. Com 7-9, escolha 2.</p>\n<ul>\n<li>• Não demora muito.</li>\n<li>• Nada de valor é danificado.</li>\n<li>• Não provoca uma barulheira absurda.</li>\n<li>• Você pode consertar o objeto sem muito esforço.</li>\n</ul>"
+    },
+    {
+      "id": "Armor Mastery",
+      "name": "Maestria com Armadura",
+      "description": "<p>Quando <strong>deixar sua armadura absorver a maior parte de um golpe recebido</strong>, o dano causado é negado e você deve reduzir o valor de sua armadura ou escudo (sua escolha) em 1. Tal valor é reduzido sempre que você fizer esta opção. Se isso reduzir o item a 0 de armadura, ele será destruído.</p>"
+    },
+    {
+      "id": "Scent Of Blood",
+      "name": "Cheiro de Sangue",
+      "description": "<p>Após <strong>utilizar matar e pilhar</strong> contra um inimigo, seu próximo ataque contra ele recebe +1d4 de dano.</p>\n<p>Rolagem Adicional de Dano: [[/roll 1d4]]</p>"
+    },
+    {
+      "id": "Seeing Red",
+      "name": "Visão Rubra",
+      "description": " <p>Quando <strong>discernir a realidade</strong> durante um combate, receba +1.</p>"
+    },
+    {
+      "id": "Multiclass Initiate",
+      "name": "Iniciado em Multiclasse",
+      "description": "<p>Escolha e adquira um movimento de outra classe. Trate seu nível como se fosse 1 menor no momento da escolha.</p>"
+    },
+    {
+      "id": "Superior Warrior",
+      "name": "Guerreiro Superior",
+      "description": "<p>Quando <strong>matar e pilhar</strong>, caso role 12+, cause seu dano, evite o contra-ataque, e impressione, desanime ou amedronte seu adversário.</p>"
+    },
+    {
+      "id": "Through Death’s Eyes",
+      "name": "Através dos Olhos da Morte",
+      "description": "<p>Quando <strong>entrar em batalha</strong>, role+SAB. Com 10+, diga o nome de alguém que sobreviverá, e o nome de alguém que morrerá. Com 7-9, diga o nome de alguém que sobreviverá ou de alguém que morrerá. Diga apenas os nomes de PNJ, nunca de personagens jogadores. O MJ fará com que sua visão torne-se realidade, por mais improvável que seja. Com 6-, você enxerga sua própria morte e, consequentemente, recebe -1 durante toda a batalha.</p>"
+    },
+    {
+      "id": "Eye For Weaponry",
+      "name": "Foco no Armamento",
+      "description": "<p>Quando <strong>verificar as armas de seus inimigos</strong>, pergunte ao MJ qual é o dano que elas causam.</p>"
+    },
+    {
+      "id": "Taste Of Blood",
+      "name": "Sede de Sangue",
+      "description": "<p>Quando <strong>causar dano</strong>, cause +1d8 de dano.</p>\n<p>Rolamento adicional de dano: [[/roll1d8]]</p>",
+      "requiresMove": "Cheiro de Sangue"
+    },
+    {
+      "id": "Merciless",
+      "name": "Implacável",
+      "description": "<p>Quando <strong>causar dano</strong>, cause +1d4 de dano.</p>\n<p>Rolagem Adicional de Dano: [[/roll 1d4]]</p>"
+    },
+    {
+      "id": "Steel Hide",
+      "name": "Pele de Aço",
+      "description": "<p>Você recebe +2 de armadura.</p>",
+      "requiresMove": "Pele de Ferro"
+    },
+    {
+      "id": "Armored Perfection",
+      "name": "Perfeição com Armadura",
+      "description": "<p>Quando <strong>deixar sua armadura absorver a maior parte de um golpe recebido</strong>, o dano causado é negado e você recebe +1 adiante contra o atacante, mas deve reduzir o valor de sua armadura ou escudo (sua escolha) em 1. Tal valor é reduzido sempre que você fizer esta opção. Se isso reduzir o item a 0 de armadura, ele será destruído.</p>",
+      "requiresMove": "Maestria com Armadura"
+    },
+    {
+      "id": "Signature Weapon",
+      "name": "Arma Favorita",
+      "description": "<p>Esta é sua arma. Existem muitas iguais a ela, mas esta é a sua. Ela é a sua melhor amiga. Ela é sua vida. Você a domina como domina a si próprio. Sua arma, sem você, é inútil. Sem sua arma, você é inútil. Empunhe-a e seja autêntico.</p>\n<h3>Escolha uma descrição básica, todas possuem peso 2:</h3>\n<ul>\n<li>• Espada</li>\n<li>• Machado</li>\n<li>• Martelo</li>\n<li>• Lança</li>\n<li>• Mangual</li>\n<li>• Punhos</li>\n</ul>\n<h3>Escolha a distância que melhor se encaixe em sua arma:</h3>\n<ul>\n<li>• Mão</li>\n<li>• Corpo a Corpo</li>\n<li>• Alcance</li>\n</ul>\n<h3>Escolha duas melhorias:</h3>\n<ul>\n<li>• Ganchos e espinhos. +1 de dano, e +1 de peso.</li>\n<li>• Afi ada. +2 penetrante.</li>\n<li>• Perfeitamente balanceada. Torna-se <em>precisa</em>.</li>\n<li>• Fio serrilhado. +1 de dano.</li>\n<li>• Brilha na presença de um tipo de criatura à sua escolha.</li>\n<li>• Enorme. Torna-se <em>grotesca</em> e <em>poderosa</em>.</li>\n<li>• Versátil. Escolha um alcance adicional.</li>\n<li>• Alta qualidade. -1 de peso.</li>\n</ul>\n<h3>Escolha uma aparência:</h3>\n<ul>\n<li>• Antiga</li>\n<li>• Imaculada</li>\n<li>• Ornada</li>\n<li>• Manchada de sangue</li>\n<li>• Sinistra</li>\n</ul>"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "label": "Equipamento (Classe)",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": [
+    {
+      "id": "Token",
+      "name": "Souvenir",
+      "description": "<p>Um souvenir de algum lugar que você passou, ou de onde você vem, ou de sua terra natal.</p>"
+    },
+    {
+      "id": "Horn",
+      "name": "Corneta",
+      "description": "<p>Um tubo longo de metal.</p>"
+    },
+    {
+      "id": "Symbol of the Devine",
+      "name": "Símbolo Sagrado",
+      "description": "<p>Um símbolo sagrado. Descreva-o:</p>"
+    },
+    {
+      "id": "Signature Weapon",
+      "name": "Arma Favorita",
+      "description": "<p>Esta é sua arma. Existem muitas iguais a ela, mas esta é a sua. Ela é a sua melhor amiga. Ela é sua vida. Você a domina como domina a si próprio. Sua arma, sem você, é inútil. Sem sua arma, você é inútil. Empunhe-a e seja autêntico.</p>\n<h3>Escolha uma descrição básica, todas possuem peso 2:</h3>\n<ul>\n<li>• Espada</li>\n<li>• Machado</li>\n<li>• Martelo</li>\n<li>• Lança</li>\n<li>• Mangual</li>\n<li>• Punhos</li>\n</ul>\n<h3>Escolha a distância que melhor se encaixe em sua arma:</h3>\n<ul>\n<li>• Mão</li>\n<li>• Corpo a Corpo</li>\n<li>• Alcance</li>\n</ul>\n<h3>Escolha duas melhorias:</h3>\n<ul>\n<li>• Ganchos e espinhos. +1 de dano, e +1 de peso.</li>\n<li>• Afi ada. +2 penetrante.</li>\n<li>• Perfeitamente balanceada. Torna-se precisa.</li>\n<li>• Fio serrilhado. +1 de dano.</li>\n<li>• Brilha na presença de um tipo de criatura à sua escolha.</li>\n<li>• Enorme. Torna-se grotesca e poderosa.</li>\n<li>• Versátil. Escolha um alcance adicional.</li>\n<li>• Alta qualidade. -1 de peso.</li>\n</ul>\n<h3>Escolha uma aparência:</h3>\n<ul>\n<li>• Antiga</li>\n<li>• Imaculada</li>\n<li>• Ornada</li>\n<li>• Manchada de sangue</li>\n<li>• Sinistra</li>\n</ul>"
+    },
+    {
+      "id": "Lute",
+      "name": "Alaúde",
+      "description": "<p>Um instrumento musical de cordas com um corpo oco.</p>"
+    },
+    {
+      "id": "Mark of Faith",
+      "name": "Marca da Fé",
+      "description": "<p>Uma marca da sua fé. Descreva-a:</p>"
+    },
+    {
+      "id": "Symbol",
+      "name": "Símbolo",
+      "description": "<p>Um símbolo de seus sacrifícios passados. Descreva-o:</p>"
+    },
+    {
+      "id": "Fiddle",
+      "name": "Rabeca",
+      "description": "<p>Um instrumento musical de corda friccionada com arco.</p>"
+    },
+    {
+      "id": "Pipes",
+      "name": "Flauta",
+      "description": "<p>Uma flauta com três furos.</p>"
+    },
+    {
+      "id": "Poison",
+      "name": "Veneno"},
+    {
+      "id": "Songbook",
+      "name": "Livro de Canções",
+      "description": "<p>Um livro contendo diversas canções coletadas ao longo dos anos.</p>"
+    },
+    {
+      "id": "Spellbook",
+      "name": "Grimório",
+      "description": "<p><span style=\"color: #191813; font-family: Roboto, serif; background-color: #ffffff;\">Você dominou vários feitiços e os inscreveu em seu livro de feitiços. Você começa com três feitiços de primeiro nível, bem como todos os seus truques. Sempre que você ganha um nível, inscreve um novo feitiço de seu nível ou inferior.</span></p>"
+    },
+    {
+      "id": "Mandolin",
+      "name": "Bandolim",
+      "description": "<p>Um instrumento musical de cordas, com um pouco mais de qualidade do que um Alaúde.</p>"
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "label": "Equipamento (Venenos)",
+  "mapping": {
+    "description": "system.description",
+    "tags": "system.tags"
+  },
+  "entries": [
+    {
+      "id": "Serpent's Tears",
+      "name": "Lágrimas da Serpente",
+      "description": "<p>Qualquer pessoa que role para causar dano no alvo deve rolar duas vezes o dado e utilizar o melhor resultado.</p>",
+      "tags": "[{\"value\":\"perigoso\"},{\"value\":\"toque\"}]"
+    },
+    {
+      "id": "Goldenroot",
+      "name": "Raiz Dourada",
+      "description": "<p>O alvo trata a próxima criatura que ver como um aliado confiável, até que se prove o contrário.</p>",
+      "tags": "[{\"value\":\"perigoso\"},{\"value\":\"aplicado\"}]"
+    },
+    {
+      "id": "Oil of Tagit",
+      "name": "Óleo de Tagit",
+      "description": "<p>O alvo cai em um sono profundo.</p>",
+      "tags": "[{\"value\":\"perigoso\"},{\"value\":\"aplicado\"}]"
+    },
+    {
+      "id": "Bloodweed",
+      "name": "Erva Sangrenta",
+      "description": "<p>Até ser curado, sempre que o alvo rolar para causar dano, ele rola um d4 adicional e subtrai o resultado do dano provocado.</p>\n<p>Subtrair da rolagem de dano: [[/roll 1d4]]</p>",
+      "tags": "[{\"value\":\"perigoso\"},{\"value\":\"toque\"}]"
+    }
+  ]
+}

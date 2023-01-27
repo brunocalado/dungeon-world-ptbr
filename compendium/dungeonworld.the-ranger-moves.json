@@ -1,0 +1,134 @@
+{
+  "label": "Movimentos do Ranger",
+  "mapping": {
+    "description": "system.description",
+    "requiresMove": "system.requiresMove"
+  },
+  "entries": [
+    {
+      "id": "Man’s Best Friend",
+      "name": "Melhor Amigo do Homem",
+      "description": "<p>Quando <strong>permitir que seu companheiro animal receba um ataque que era direcionado a você</strong>, o dano é negado e a Ferocidade dele é alterada para 0. Se a Ferocidade atual do animal for 0, esta habilidade não pode ser usada. Após algumas horas de descanso, a Ferocidade de seu companheiro animal volta ao normal.</p>"
+    },
+    {
+      "id": "Blot Out The Sun",
+      "name": "Apagar o Sol",
+      "description": "<p>Quando <strong>disparar</strong>, você pode gastar munição extra antes de rolar os dados. Para cada ponto de munição gasto dessa forma, escolha um alvo adicional. Role apenas uma vez e aplique o dano a todos os alvos.</p>"
+    },
+    {
+      "id": "God Amidst The Wastes",
+      "name": "Deuses em meio à Desolação",
+      "description": "<p>Dedique-se a uma divindade (crie uma nova, ou escolha uma que já foi estabelecida anteriormente). Você recebe os movimentos de clérigo comungar e conjurar feitiços. Assim que escolher este movimento, seu personagem será considerado um clérigo de nível 1 para a utilização de feitiços. A partir daquele momento, sempre que ganhar um novo nível, aumente seu nível efetivo de clérigo em 1.</p>"
+    },
+    {
+      "id": "Wild Empathy",
+      "name": "Empatia Selvagem",
+      "description": "<p>Você é capaz de falar com os animais e de compreendê-los.</p>"
+    },
+    {
+      "id": "Viper’s Fangs",
+      "name": "Golpe da Víbora",
+      "description": "<p>Quando <strong>atacar um inimigo com duas armas ao mesmo tempo</strong>, adicione +1d4 ao dano causado devido à sua arma extra.</p>\n<p>Rolamento adicional de dano: [[/roll 1d4]]</p>",
+      "requiresMove": "Golpe da Víbora"
+    },
+    {
+      "id": "Half-elven",
+      "name": "Meio-Elfo",
+      "description": "<p>Em algum momento, sua linhagem tornou-se mestiça e as características da outra raça começaram a ficar mais evidentes. Ganhe o movimento inicial de elfo se escolheu ser humano durante a criação de personagens, ou vice-versa. <strong>Você só pode pegar este movimento no seu primeiro avanço de nível.</strong></p>"
+    },
+    {
+      "id": "Follow Me",
+      "name": "Sigam-me",
+      "description": "<p>Quando <strong>empreender uma jornada perigosa</strong>, você pode realizar dois papéis. Faça uma rolagem separada para cada um deles.</p>"
+    },
+    {
+      "id": "Viper’s Strike",
+      "name": "Mordida da Víbora",
+      "description": "<p>Quando <strong>atacar um inimigo com duas armas ao mesmo tempo</strong>, adicione +1d8 ao dano causado devido à sua arma extra.</p>\n<p>Rolamento adicional de dano: [[/roll 1d8]]</p>"
+    },
+    {
+      "id": "A Safer Place",
+      "name": "Local Ainda Mais Seguro",
+      "description": "<p>Quando você <strong>preparar os turnos de guarda que ocorrerão durante a noite</strong>, todos recebem +1 para montar guarda. Todas as pessoas que passam a noite em um acampamento no qual você prepare os turnos de guarda recebem +1 adiante.</p>",
+      "requiresMove": "Local Seguro"
+    },
+    {
+      "id": "Familiar Prey",
+      "name": "Presa Conhecida",
+      "description": "<p>Quando <strong>falar difícil sobre um monstro</strong>, use SAB no lugar de INT.</p>"
+    },
+    {
+      "id": "Smaug’s Belly",
+      "name": "Barriga do Smaug",
+      "description": "<p>Quando <strong>descobrir o ponto fraco de seu alvo</strong>, suas flechas ganham penetrante 2.</p>"
+    },
+    {
+      "id": "A Safe Place",
+      "name": "Local Seguro",
+      "description": "<p>Quando você <strong>preparar os turnos de guarda que ocorrerão durante a noite</strong>, todos recebem +1 para montar guarda.</p>"
+    },
+    {
+      "id": "Unnatural Ally",
+      "name": "Aliado Sobrenatural",
+      "description": "<p>Seu companheiro animal é um monstro, e não um animal. Descreva-o. Dê a ele Ferocidade +2 e Instinto +1, e escolha um treinamento adicional.</p>"
+    },
+    {
+      "id": "Hunt & Track",
+      "name": "Caçar e Rastrear",
+      "description": "<p>Quando <strong>seguir uma trilha de pistas deixadas por criaturas que tenham passado por ali</strong>, role+SAB. Com 10+, você consegue seguir o rastro até que haja uma mudança signifi cativa em sua direção ou modo de viagem. Com 7-9, você também pode escolher 1 dos itens abaixo:</p>\n<ul>\n<li>• Obtenha alguma informação a respeito de sua presa, dada pelo MJ</li>\n<li>• Determine o que causou a interrupção de seus rastros </li>\n</ul>"
+    },
+    {
+      "id": "Wild Speech",
+      "name": "Discurso Selvagem",
+      "description": "<p>Você é capaz de falar com quaisquer criaturas que não sejam mágicas ou extraplanares, e de compreendê-las.</p>",
+      "requiresMove": "Empatia Selvagem"
+    },
+    {
+      "id": "Called Shot",
+      "name": "Tiro ao Alvo",
+      "description": "<p>Quando <strong>atacar um inimigo surpreso ou indefeso à distância</strong>, você pode optar por causar seu dano, ou indique seu alvo e role+DES:</p>\n<ul>\n<li>• <strong>Cabeça:</strong> Com 10+, aplique o efeito de 7-9, mais seu dano. Com 7-9 o alvo não consegue fazer nada a não ser ficar parado babando por alguns momentos.</li>\n<li>• <strong>Braços:</strong> Com 10+, aplique o efeito de 7-9, mais seu dano. Com 7-9, o alvo deixa cair qualquer coisa que esteja segurando.</li>\n<li>• <strong>Pernas:</strong> Com 10+, aplique o efeito de 7-9, mais seu dano. Com 7-9, o alvo fica mancando e passa a se mover mais lentamente.</li>\n</ul>"
+    },
+    {
+      "id": "Special Trick",
+      "name": "Truque Especial",
+      "description": "<p>Escolha um movimento de outra classe. Enquanto estiver trabalhando com seu companheiro animal, você terá acesso àquele movimento.</p>"
+    },
+    {
+      "id": "Command",
+      "name": "Comandar",
+      "description": "<p>Quando <strong>trabalhar com seu companheiro animal</strong> em alguma coisa para a qual ele é treinado...</p>\n<ul>\n<li>e atacarem o mesmo alvo, some a <strong>ferocidade</strong> dele ao seu <strong>dano</strong></li>\n<li>e rastrearem uma trilha, some a <strong>astúcia</strong> dele ao seu <strong>rolamento</strong></li>\n<li>e você sofrer dano, some a <strong>armadura</strong> dele à sua <strong>armadura</strong></li>\n<li>e você discernir realidades, some a <strong>astúcia</strong> dele ao seu <strong>rolamento</strong></li>\n<li>e você negociar, some a <strong>astúcia</strong> dele ao seu <strong>rolamento</strong></li>\n<li>e alguma pessoa interferir com vocês, some o <strong>instinto</strong> dele ao <strong>rolamento</strong> da pessoa.</li>\n</ul>"
+    },
+    {
+      "id": "Animal Companion",
+      "name": "Companheiro Animal",
+      "description": "<p>Você possui uma conexão sobrenatural com um animal leal. Vocês não conseguem exatamente conversar, mas a criatura sempre age de acordo com sua vontade. Dê um nome ao seu companheiro animal e escolha uma espécie:</p>\n<h2>Escreva o nome aqui</h2>\n<h3>Escolha uma espécie:</h3>\n<p><em>Lobo, puma, urso, águia, cachorro, falcão, gato, coruja, pombo, rato, mula.</em></p>\n<h3>Escolha uma base:</h3>\n<ul>\n<li>Ferocidade +2, Astúcia +1, Armadura 1, Instinto +1</li>\n<li>Ferocidade +2, Astúcia +2, Armadura 0, Instinto +1</li>\n<li>Ferocidade +1, Astúcia +2, Armadura 1, Instinto +1</li>\n<li>Ferocidade +3, Astúcia +1, Armadura 1, Instinto +2</li>\n</ul>\n<h3>Escolha uma quantidade de forças igual à ferocidade:</h3>\n<p><em>Ágil, corpulento, enorme, calmo, adaptável, reflexos rápidos, incansável, camuflagem, feroz, intimidador, sentidos aguçados, furtivo.</em></p>\n<h3>Seu animal é treinado para enfrentar criaturas humanoides. Escolha uma quantidade adicional de treinamentos igual à astúcia:</h3>\n<p><em>Caçar, buscar, batedor, proteger, lutar com monstros, performance, trabalhar, viajar.</em></p>\n<h3>Escolha uma quantidade de fraquezas igual ao instinto:</h3>\n<p><em>Fujão, selvagem, lento, submisso, assustador, esquecido, teimoso, coxo.</em></p>"
+    },
+    {
+      "id": "Camouflage",
+      "name": "Camuflagem",
+      "description": "<p>Enquanto <strong>permanecer imóvel em lugares naturais</strong>, seus inimigos serão incapazes de localizá-lo até que você se movimente de alguma forma.</p>"
+    },
+    {
+      "id": "Strider",
+      "name": "Andarilho",
+      "description": "<p>Quando <strong>empreender uma jornada perigosa</strong>, você pode realizar dois papéis. Faça duas rolagens e utilize o melhor resultado para ambos os papéis.</p>",
+      "requiresMove": "Sigam-me"
+    },
+    {
+      "id": "Hunter’s Prey",
+      "name": "Presa do Caçador",
+      "description": "<p>Quando <strong>falar difícil a respeito de um monstro</strong>, use SAB no lugar de INT. Com 12+, além dos efeitos normais, você pode fazer ao MJ uma pergunta qualquer sobre o assunto.</p>",
+      "requiresMove": "Presa Conhecida"
+    },
+    {
+      "id": "Well-trained",
+      "name": "Bem Treinado",
+      "description": "<p>Escolha mais um treinamento para seu companheiro animal.</p>"
+    },
+    {
+      "id": "Observant",
+      "name": "Observador",
+      "description": "<p>Quando <strong>caçar e rastrear</strong>, caso obtenha um acerto, você também poderá fazer ao MJ uma das perguntas presentes na lista de discernir realidades a respeito da criatura perseguida.</p>"
+    }
+  ]
+}

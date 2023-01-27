@@ -1,0 +1,140 @@
+{
+  "label": "Movimentos do Mago",
+  "mapping": {
+    "description": "system.description",
+    "requiresMove": "system.requiresMove"
+  },
+  "entries": [
+    {
+      "id": "Protective Counter",
+      "name": "Contramágica Protetora",
+      "description": "<p>Quando um aliado em sua linha de visão for <strong>afetado por um feitiço</strong>, você pode contê- lo como se você fosse o alvo. Caso um feitiço afete vários aliados, você deve fazer uma contramágica para cada um separadamente.</p>",
+      "requiresMove": "Contramágica"
+    },
+    {
+      "id": "Spellbook",
+      "name": "Grimório",
+      "description": "<p>Você aprendeu diversos feitiços e os inscreveu em seu grimório. Comece o jogo com 3 feitiços de primeiro nível anotados em seu livro, assim como todos os truques. Sempre que ganhar um nível, adicione ao seu grimório um feitiço de nível igual ou inferior ao seu. O livro possui peso 1.</p>"
+    },
+    {
+      "id": "Prodigy",
+      "name": "Prodígio",
+      "description": "<p>Escolha um feitiço. Você o prepara como se fosse 1 nível menor.</p>"
+    },
+    {
+      "id": "Arcane Ward",
+      "name": "Proteção Arcana",
+      "description": "<p>Enquanto estiver com pelo menos um feitiço de nível 1 ou superior preparado, você recebe armadura +2.</p>"
+    },
+    {
+      "id": "Enchanter's Soul",
+      "name": "Alma de Encantador",
+      "description": "<p>Quando puder passar um tempo estudando um item mágico em um local seguro, você pode aumentar o poder do objeto para que, da próxima vez que o utilizar, seus efeitos sejam amplificados. O MJ lhe dirá como.</p>",
+      "requiresMove": "Encantador"
+    },
+    {
+      "id": "Master",
+      "name": "Mestre",
+      "description": "<p>Escolha um feitiço além daquele selecionado com prodígio. Você o prepara como se fosse 1 nível menor.</p>",
+      "requiresMove": "Prodígio"
+    },
+    {
+      "id": "Counterspell",
+      "name": "Contramágica",
+      "description": "<p>Quando tentar <strong>conter um feitiço arcano</strong> que iria lhe afetar, comprometa um de seus feitiços preparados na defesa e role+INT. Com 10+, o feitiço é contido e não lhe afeta. Com 7-9, o feitiço é contido e você esquece o feitiço comprometido. Sua contramágica protege apenas você – caso o feitiço contido tenha outros alvos, eles serão afetados normalmente.</p>"
+    },
+    {
+      "id": "Self-Powered",
+      "name": "Autossuficiente",
+      "description": "<p>Quando tiver tempo, materiais arcanos, e um lugar seguro, você pode criar seu próprio local de poder. Descreva para o MJ que tipo de poder é esse e como irá vinculá-lo ao local. O MJ lhe informará um tipo de criatura que terá interesse em seus trabalhos.</p>"
+    },
+    {
+      "id": "Fount of Knowledge",
+      "name": "Fonte de Conhecimento",
+      "description": "<p>Quando <strong>falar difícil</strong> a respeito de alguma coisa que ninguém mais saiba, receba +1.</p>"
+    },
+    {
+      "id": "Spell Augmentation",
+      "name": "Ampliação Mágica",
+      "description": "<p>Quando <strong>causar dano em uma criatura</strong>, você pode aplicar a energia de um feitiço diretamente contra ela. Encerre um de seus feitiços contínuos e adicione seu nível ao dano causado.</p>"
+    },
+    {
+      "id": "Know-It-All",
+      "name": "Sabe-Tudo",
+      "description": "<p>Quando <strong>o personagem de outro jogador lhe pedir conselhos, você lhe disser qual considera ser a melhor solução e ele seguir seu conselho</strong>, ele receberá +1 adiante e você marcará XP.</p>"
+    },
+    {
+      "id": "Prepare Spells",
+      "name": "Preparar Feitiços",
+      "description": "<p>Quando passar algum tempo <strong>contemplando silenciosamente</strong> seu grimório (uma hora, aproximadamente) sem interrupções, você:</p>\n<ul>\n<li>• Perde todos os feitiços que havia preparado anteriormente</li>\n<li>• Prepara novos feitiços que estejam anotados em seu grimório à sua escolha, cujo total de níveis não supere seu próprio nível + 1</li>\n<li>• Prepara todos os seus truques, que nunca contam para o limite acima.</li>\n</ul>"
+    },
+    {
+      "id": "Cast a Spell",
+      "name": "Conjurar Feitiços",
+      "description": "<p>Quando <strong>lançar um feitiço preparado</strong>, role+INT. Com 10+, o feitiço é conjurado com sucesso e não é esquecido – logo, você poderá conjurá-lo novamente mais tarde. Com 7-9, o feitiço é conjurado, mas escolha um:</p>\n<ul>\n<li>• Você atrai atenção indesejável ou se coloca em alguma situação complicada. O MJ descreverá como.</li>\n<li>• Sua conjuração perturba a trama da realidade – receba -1 constante para conjurar feitiços até a próxima vez que você Preparar Feitiços.</li>\n<li>• Você esquece o feitiço após conjurá-lo, e não conseguirá conjurá-lo de novo até a próxima vez que preparar feitiços.</li>\n</ul>\n<p>Repare que manter ativos feitiços com efeitos contínuos pode lhe ocasionar uma penalidade na rolagem de conjurar feitiços.</p>"
+    },
+    {
+      "id": "Quick Study",
+      "name": "Estudar Rapidamente",
+      "description": "<p>Quando <strong>observar os efeitos de um feitiço arcano</strong>, pergunte ao MJ seu nome e quais são os seus efeitos. Você recebe +1 adiante quando agir de acordo com a resposta.</p>"
+    },
+    {
+      "id": "Arcane Armor",
+      "name": "Armadura Arcana",
+      "description": "<p>Enquanto estiver com pelo menos um feitiço de nível 1 ou superior preparado, você recebe armadura +4.</p>",
+      "requiresMove": "Proteção Arcana"
+    },
+    {
+      "id": "Mystical Puppet Strings",
+      "name": "Fios Místicos de Marionete",
+      "description": "<p>Quando <strong>utilizar feitiços para controlar as ações de outras pessoas</strong>, elas não se lembrarão do que fizeram sob suas ordens, e não lhe desejarão nenhum mal.</p>"
+    },
+    {
+      "id": "Logical",
+      "name": "Lógica",
+      "description": "<p>Quando <strong>utilizar seu poder de dedução para analisar os arredores</strong>, você pode discernir realidades com INT no lugar de SAB.</p>"
+    },
+    {
+      "id": "Greater Empowered Magic",
+      "name": "Magia Potencializada Superior",
+      "description": "<p>Quando <strong>conjurar feitiços</strong>, com 10+ você pode escolher um item da lista de 7-9. Caso o faça, pode escolher também um dos itens da lista abaixo. Com 12+, você pode escolher um dos itens da lista abaixo sem custo:</p>\n<ul>\n<li>• Os efeitos do feitiço são dobrados</li>\n<li>• Os alvos do feitiço são dobrados </li>\n</ul>",
+      "requiresMove": "Magia Potencializada"
+    },
+    {
+      "id": "Highly Logical",
+      "name": "Lógica Extrema",
+      "description": "<p>Quando <strong>utilizar puramente seu poder de dedução para analisar os arredores</strong>, você pode Discernir Realidades com INT no lugar de SAB. Com 12+, você pode fazer ao MJ quaisquer três perguntas, sem ser limitado pela lista.</p>",
+      "requiresMove": "Lógica"
+    },
+    {
+      "id": "Spell Defense",
+      "name": "Defesa Mágica",
+      "description": "<p>Você pode desfazer um feitiço contínuo imediatamente, e utilizar a energia envolvida em sua dissipação para defl etir um ataque. O feitiço é encerrado e você subtrai o nível dele do dano recebido.</p>"
+    },
+    {
+      "id": "Expanded Spellbook",
+      "name": "Grimório Expandido",
+      "description": "<p>Adicione um feitiço novo de qualquer outra classe ao seu grimório.</p>"
+    },
+    {
+      "id": "Empowered Magic",
+      "name": "Magia Potencializada",
+      "description": "<p>Quando <strong>conjurar feitiços</strong>, com 10+ você tem a opção de escolher um item da lista de 7-9. Caso o faça, pode escolher também um dos itens da lista abaixo:</p>\n<ul>\n<li>• os efeitos do feitiço são maximizados</li>\n<li>• os alvos do feitiço são dobrados</li>\n</ul>"
+    },
+    {
+      "id": "Ethereal Tether",
+      "name": "Corrente Etérea",
+      "description": "<p>Quando <strong>passar um tempo com um alvo disposto ou incapacitado<strong>, você pode forjar uma corrente etérea entre vocês. Você passa a perceber o que o alvo percebe e pode discernir realidades a respeito dele ou de seus arredores independentemente da distância que os separar. Uma pessoa que tenha se disposto a forjar esta corrente consegue se comunicar com você como se ambos estivessem na mesma sala.</p>"
+    },
+    {
+      "id": "Enchanter",
+      "name": "Encantador",
+      "description": "<p>Quando <strong>puder passar um tempo estudando um item mágico em um local seguro</strong>, pergunte ao MJ o que ele faz. Ele responderá honestamente.</p>"
+    },
+    {
+      "id": "Ritual",
+      "name": "Ritual",
+      "description": "<p>Quando <strong>drenar energia de um local de poder para criar um efeito mágico</strong>, diga ao MJ o que está tentando realizar. Efeitos advindos de rituais são sempre possíveis, mas o MJ lhe dará de uma a quatro das condições abaixo:</p>\n<ul>\n<li>• O ritual vai demorar dias/semanas/meses</li>\n<li>• Primeiro você tem que ________________</li>\n<li>• Você precisará da ajuda de ________________</li>\n<li>• O ritual vai requerer uma enorme quantia em dinheiro</li>\n<li>• O melhor que consegue fazer é uma versão inferior, pouco confiável e limitada</li>\n<li>• Você e seus aliados correrão o perigo de ________________</li>\n<li>• Você precisará desencantar ________________ para fazê-lo</li>\n</ul>"
+    }
+  ]
+}

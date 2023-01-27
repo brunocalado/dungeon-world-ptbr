@@ -1,0 +1,137 @@
+{
+  "label": "Movimentos do Paladino",
+  "mapping": {
+    "description": "system.description",
+    "requiresMove": "system.requiresMove"
+  },
+  "entries": [
+    {
+      "id": "I Am The Law",
+      "name": "Eu Sou a Lei",
+      "description": "<p>Quando <strong>der uma ordem a um PNJ baseado em sua autoridade divina</strong>, role+CAR. Com 7-9, ele escolhe uma das opções abaixo:</p>\n<ul>\n<li>• Faz o que foi mandado</li>\n<li>• Recua cuidadosamente, depois foge</li>\n<li>• Ataca você</li>\n</ul>\n<p>Com 10+, você também recebe +1 adiante contra o PNJ. Com 6-, o alvo faz o que bem entender, e você recebe -1 adiante contra ele.</p>"
+    },
+    {
+      "id": "Exterminatus",
+      "name": "Exterminatus",
+      "description": "<p>Quando <strong>pronunciar em voz alta sua promessa de derrotar um inimigo</strong>, você causará +2d4 de dano contra ele, e -4 de dano contra todos os outros. Este efeito persiste até que o inimigo declarado seja derrotado. Caso não seja capaz de vencê-lo ou desista da luta, você pode admitir o fracasso, mas este efeito não se encerrará até que você consiga se redimir.</p>\n<p>Rolamento adicional de dano: [[/roll 2d4]]</p>"
+    },
+    {
+      "id": "Indomitable",
+      "name": "Indomável",
+      "description": "<p>Quando <strong>sofrer uma debilidade</strong> (mesmo as originadas de Proteção Sangrenta), receba +1 adiante contra quem a tenha causado.</p>"
+    },
+    {
+      "id": "Divine Protection",
+      "name": "Proteção Divina",
+      "description": "<p>Você recebe armadura +2 enquanto estiver em uma busca.</p>",
+      "requiresMove": "Proteção Divina"
+    },
+    {
+      "id": "Lay On Hands",
+      "name": "Impor Mãos",
+      "description": "<p>Quando <strong>tocar alguém, pele com pele, e rezar por seu bem estar</strong>, role+CAR. Com 10+, você cura 1d8 de dano ou remove uma doença. Com 7-9, a cura acontece, mas o dano ou a doença é transferido para você.</p>"
+    },
+    {
+      "id": "Evidence Of Faith",
+      "name": "Prova de Fé",
+      "description": "<p>Quando <strong>observar a conjuração de um feitiço divino</strong>, você pode perguntar ao MJ qual divindade o concedeu, e quais são seus efeitos. Receba +1 adiante se agir de acordo com as respostas.</p>",
+      "requiresMove": "Favor Divino"
+    },
+    {
+      "id": "Holy Protection",
+      "name": "Proteção Sagrada",
+      "description": "<p>Você recebe armadura +1 enquanto estiver em uma busca.</p>"
+    },
+    {
+      "id": "Voice Of Authority",
+      "name": "Autoridade Divina",
+      "description": "<p>Você recebe +1 para comandar servos.</p>"
+    },
+    {
+      "id": "Impervious Defender",
+      "name": "Defensor Intransponível",
+      "description": "<p>Quando <strong>defender</strong>, você sempre recebe +1 domínio, mesmo com 6-. Se rolar 12+, no lugar de obter domínio, coloque-se no caminho da criatura atacante mais próxima. Você receberá uma vantagem clara contra ela, que será descrita pelo MJ.</p>",
+      "requiresMove": "Defensor Convicto"
+    },
+    {
+      "id": "Holy Smite",
+      "name": "Punição Divina",
+      "description": "<p>Enquanto estiver em uma busca, você causa +1d8 de dano.</p>\n<p>Rolagem adicional de dano: [[/roll 1d8]]</p>",
+      "requiresMove": "Punição"
+    },
+    {
+      "id": "Quest",
+      "name": "Busca",
+      "description": "<p>Quando você <strong>se dedicar a uma missão através da oração e da purificação espiritual</strong>, diga o que pretende fazer:</p>\n<ul>\n<li>• Destruir ________________, um terrível mal que se abate sobre a terra</li>\n<li>• Defender ________________ dos males que lhe afligem</li>\n<li>• Descobrir a verdade a respeito de ________________</li>\n</ul>\n<p>Depois, escolha duas dádivas:</p>\n<ul>\n<li>• Um senso de direção infalível que me aponta para ________________</li>\n<li>• Invulnerabilidade contra ________________ (por exemplo, armas afiadas, fogo, encantamentos, etc.)</li>\n<li>• Uma marca de autoridade divina</li>\n<li>• Sentidos que atravessem qualquer mentira</li>\n<li>• Uma voz que transcenda a linguagem</li>\n<li>• Ver-se livre da fome, sede e sono</li>\n</ul>\n<p>O MJ lhe dirá qual voto ou quais votos deverão ser mantidos para que essas dádivas lhe sejam concedidas:</p>\n<ul>\n<li><strong>• Honra </strong>(proibido: truques e táticas covardes)</li>\n<li><strong>• Temperança</strong> (proibido: comilança, bebedeira e os prazeres da carne)</li>\n<li><strong>• Piedade</strong> (requer: realizar seus rituais sagrados diariamente)</li>\n<li><strong>• Valor</strong> (proibido: permitir que uma criatura maligna viva)</li>\n<li><strong>• Verdade</strong> (proibido: mentiras)</li>\n<li><strong>• Hospitalidade</strong> (requer: dar conforto àqueles que necessitem, não importa quem sejam) </li>\n</ul>"
+    },
+    {
+      "id": "Smite",
+      "name": "Punição",
+      "description": "<p>Enquanto estiver em uma busca, você causará +1d4 de dano.</p>\n<p>Rolagem adicional de dano: [[/roll 1d4]]</p>"
+    },
+    {
+      "id": "Armored",
+      "name": "Fortificado",
+      "description": "<p>Ignore o rótulo “desajeitada” em qualquer armadura que você usar.</p>"
+    },
+    {
+      "id": "Bloody Aegis",
+      "name": "Proteção Sangrenta",
+      "description": "<p>Sempre que <strong>receber dano</strong>, você pode cerrar os dentes e aceitar o golpe. Se o fizer, você não recebe dano, mas adquire uma debilidade de sua escolha. Caso já possua todas as seis debilidades, você não poderá usar este movimento.</p>"
+    },
+    {
+      "id": "Divine Favor",
+      "name": "Favor Divino",
+      "description": "<p>Dedique-se a uma divindade (crie uma nova, ou escolha uma que já foi estabelecida anteriormente). Você recebe os movimentos de clérigo comungar e conjurar feitiços. Assim que escolher este movimento, seu personagem será considerado um clérigo de nível 1 para a utilização de feitiços. A partir desse momento, sempre que ganhar um novo nível, aumente seu nível efetivo de clérigo em 1.</p>"
+    },
+    {
+      "id": "Setup Strike",
+      "name": "Preparar Ataque",
+      "description": "<p>Quando <strong>matar e pilhar</strong>, escolha um aliado. O próximo ataque que ele realizar contra o seu alvo causará +1d4 de dano.</p>\n<p>Rolamento adicional de dano: [[/roll 1d4]]</p>"
+    },
+    {
+      "id": "Perfect Hospitaller",
+      "name": "Hospitalário:",
+      "description": "<p>Quando <strong>curar um aliado</strong>, cure +1d8 de dano.</p>\n<p>Rolamento adicional de cura: [[/roll 2d8]]</p>",
+      "requiresMove": "Hospitalário"
+    },
+    {
+      "id": "Perfect Knight",
+      "name": "Cavaleiro Perfeito",
+      "description": "<p>Quando iniciar uma busca, escolha três dádivas no lugar de duas.</p>"
+    },
+    {
+      "id": "Ever Onward",
+      "name": "Sempre em Frente",
+      "description": "<p>Quando <strong>liderar a investida rumo ao combate</strong>, aqueles que o seguirem recebem +1 adiante e armadura +2 adiante.</p>",
+      "requiresMove": "Investir!"
+    },
+    {
+      "id": "Charge!",
+      "name": "Investir!",
+      "description": "<p>Quando <strong>liderar a investida rumo ao combate</strong>, aqueles que o seguirem recebem +1 adiante.</p>"
+    },
+    {
+      "id": "Tandem Strike",
+      "name": "Ataque em Sequência",
+      "description": "<p>Quando <strong>matar e pilhar</strong>, escolha um aliado. Além de causar +1d4 de dano no próximo ataque contra o mesmo alvo, seu aliado receberá +1 adiante contra ele.</p>\n<p>Rolamento adicional de dano: [[/roll 1d4]]</p>",
+      "requiresMove": "Preparar Ataque"
+    },
+    {
+      "id": "Staunch Defender",
+      "name": "Defensor Convicto",
+      "description": "<p>Quando <strong>defender</strong>, você sempre recebe +1 domínio, mesmo com 6-.</p>"
+    },
+    {
+      "id": "Divine Authority",
+      "name": "Autoridade Divina",
+      "description": "<p>Você recebe +1 para comandar servos. Com 12+, o subordinado transcende seu momento de medo e dúvida e faz o que você mandar com elevada efetividade e eficiência.</p>",
+      "requiresMove": "Autoridade Divina"
+    },
+    {
+      "id": "Hospitaller",
+      "name": "Hospitalário",
+      "description": "<p>Quando <strong>curar um aliado</strong>, cure +1d8 de dano.</p>\n<p>Rolamento adicional de cura: [[/roll 1d8]]</p>"
+    }
+  ]
+}

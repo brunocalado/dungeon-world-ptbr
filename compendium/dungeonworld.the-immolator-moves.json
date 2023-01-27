@@ -1,0 +1,106 @@
+{
+  "label": "Movimentos do Imolador",
+  "mapping": {
+    "description": "system.description",
+    "requiresMove": "system.requiresMove"
+  },
+  "entries": [
+    {
+      "id": "The Enkindler",
+      "name": "O Incendiário",
+      "description": "<p>Quando você <strong>fortificar a coram dos outros</strong>, role+CAR. Com 10+, eles se livram de todo medo e dúvida, se tornando corajosos em um instante. Com 7-9, este efeito é passageiro, e eles percebem sua superficialidade e recorrem a covardice depois de alguns momentos. Com uma falha, eles são intimidados ou apavorados por sua presença.</p>"
+    },
+    {
+      "id": "Give Me Fuel, Give Me Fire",
+      "name": "Me dê Combustível, Me dê Fogo",
+      "description": "<p>Quando você <strong>encara intensamente alguém nos olhos</strong>, pode perguntar seu jogador \"o que alimenta as chamas de seu desejo?\". Ele irá responder com a verdade, mesmo que o personagem não saiba ou tente esconder isto.</p>"
+    },
+    {
+      "id": "This Killing Fire",
+      "name": "Fogo Destruidor",
+      "description": "<p>Adicione os seguintes rótulos à sua Marca Cauterizante: grotesco, poderoso, alcance, próximo, distante.</p>"
+    },
+    {
+      "id": "Fanning The Flames",
+      "name": "Abanar as Chamas",
+      "description": "<p>Você pode aplicar os efeitos de do movimento Agitador a um grupo de pessoas - por volta de uma dúzia - de uma só vez.</p>",
+      "requiresMove": "Agitador"
+    },
+    {
+      "id": "Burning Ring Of Fire",
+      "name": "Anel de Fogo Incandescente",
+      "description": "<p>Quando <strong>unir a sua alma à alma de uma pessoa disposta a fazê-lo</strong>, role+CAR. Com 10+, vocês estão ligados, sendo capazes de sentir um ao outro à qualquer distância, assim como compartilhar seu estado emocional. Com 7-9, a conexão é instável e perigosa. Quando você sofrer uma debilidade, a pessoa também a sofrerá (e vice-versa). Com 6-, a marca é rejeitada e ambos apagam quaisquer Vínculos que possuam um com o outro. Você pode escrever novos Vínculos com esta pessoa no fim da sessão, como de costume. Esta união, uma vez feita, não pode ser desfeita por meios mortais.</p>"
+    },
+    {
+      "id": "Burns Twice As Bright",
+      "name": "Queima Intensa",
+      "description": "<p>Quando <strong>canalizar as chamas do destino</strong>, você pode tratar uma rolagem mal sucedida em um resultado 7-9, ou um resultado 7-9 em um 10+. Isto pode ser feito com uma rolagem que você ou outro personagem tenha feito. Diga ao MJ algo que você tenha perdido: uma emoção, uma memória, ou alguma parte inata a sua pessoa. Você não pode usar este movimento de novo até usa Fogo Brando.</p>"
+    },
+    {
+      "id": "Lore Of Flame",
+      "name": "Conhecimento das Chamas",
+      "description": "<p>Quando <strong>observar uma fonte de fogo, buscando por respostas</strong>, role+SAB. Em um acerto, o MJ irá lhe dizer alguma coisa nova e interessante sobre a situação atual. Com 10+, a informação será detalhada. Com 7-9, o MJ lhe dará apenas uma breve noção do todo. Se você já souber tudo que há para saber, você será informado disso.</p>"
+    },
+    {
+      "id": "Burns Half As Long",
+      "name": "Fogo Brando",
+      "description": "<p>Quando <strong>sacrificar uma vitória para as chamas do destino</strong>, trate qualquer resultado 10+ como um erro.</p>",
+      "requiresMove": "Queima Intensa"
+    },
+    {
+      "id": "Fighting Fire with Fire",
+      "name": "Combatendo Fogo com Fogo",
+      "description": "<p>Quando <strong>receber dano, e o resultado for ímpar</strong> (depois de reduzir o valor da armadura), as chamas dentro de você vem em seu auxílio. Role 1d4 e escolha entre: adicionar esta quantidade de usos à sua marca cauterizante (se ativa), usar o resultado adiante para invocar sua marca cauterizante, ou reduzir o dano pelo valor rolado.</p>\n<p>Rolamento especial: [[/roll 1d4]]</p>"
+    },
+    {
+      "id": "From Hell’s Heart",
+      "name": "Do Coração do Inferno",
+      "description": "<p>Quando <strong>invocar chamas</strong> usando quaisquer de seus movimentos, você pode substituí-las pelo próprio fogo negro do inferno. Este fogo não queima com calor, ignorando armadura e incendiando a própria alma do alvo. Criaturas sem alma não podem ser afetadas por este tipo de chama.</p>"
+    },
+    {
+      "id": "Sick Burn",
+      "name": "Queimadura Ultrajante",
+      "description": "<p>Quando <strong>insultar um PNJ</strong>, role+CAR. Com 10+, você o deixa sem reação, engolindo seu insulto e o desdém de todos os presentes. Com 7-9, você passa do limite, e o alvo terá sua vingança algum dia.</p>"
+    },
+    {
+      "id": "Firebrand",
+      "name": "Agitador",
+      "description": "<p>Quando <strong>introduzir uma ideia a um PNJ</strong>, role+CAR. Com 10+, o alvo acreditará ter tido a ideia sozinho, e irá executá-la com fervor. Com 7-9, sua obstinação passará depois de um dia ou dois. Com 6-, a resposta será negativa, se posicionando contrariamente à ideia.</p>"
+    },
+    {
+      "id": "Zuko Style",
+      "name": "Estilo do Zuko",
+      "description": "<p>Quando <strong>dobrar as chamas à sua vontade</strong>, role+SAB. Com 10+, elas o obedecem, tomando a forma e se movendo como você desejar, enquanto tiverem combustível para queimar. Com 7-9, o efeito é curto, durando apenas um momento.</p>"
+    },
+    {
+      "id": "Burning Bridges",
+      "name": "Queimar Pontes",
+      "description": "<p>Quando for <strong>tomar seu último suspiro</strong>, não o faça. Ao invés disto, você pode apagar um de seus Vínculos. Isto é permanente e diminui sua quantidade total de Vínculos para sempre. Você está vivo e tem 1d6 PV. Se não tiver mais Vínculos, tome seu último suspiro como faria normalmente.</p>"
+    },
+    {
+      "id": "Watch The World Burn",
+      "name": "Ver o Mundo Pegar Fogo",
+      "description": "<p>Quando <strong>abrir um caminho para os planos de fogo e invocar uma tempestade de fogo</strong>, diga ao MJ o que você está sacrificando e role+SAB. O céu se abre e fogo chove dentro de uma área do tamanho de uma pequena vila. Tudo na área recebe dano como apropriado. Com 10+, você pode extinguir a tempestade com pouco esforço. Com 7-9, o fogo sai de seu controle, avançando e se espalhando em rajadas para onde quer que possa ser carregado pelo vento e pelo clima. Com 6-, alguma coisa cruel, inteligente e faminta vêm junto com a tempestade.</p>"
+    },
+    {
+      "id": "Burning Brand",
+      "name": "Marca Cauterizante",
+      "description": "<p>Quando <strong>conjurar uma arma feita de puro fogo</strong>, role+CON. Com 10+, escolha dois dos rótulos a seguir. Com 7-9, escolhe apenas um. Você pode tratar sua INT como se fosse FOR ou DEX quando atacar com esta arma. A arma sempre começa os rótulos <em>incendiária, toque, perigosa</em> e <em>3 usos</em>. Cada ataque consome 1 uso.</p>\n<ul>\n<li>• <em>mão</em></li>\n<li>• <em>arremesso, próximo</em></li>\n<li>• <em>+1 de dano</em></li>\n<li>• remova o rótulo <em>perigosa</em></li>\n</ul>"
+    },
+    {
+      "id": "Moth To The Flame",
+      "name": "Chamas para a Mariposa",
+      "description": "<p>Quando <strong>tentar uma mente fraca com seu fogo interior</strong>, role+SAB. Com 10+, a vontade própria do alvo é suprimida, e ele lhe seguirá e fará o que você deseja, contanto que nada o assuste ou surpreenda. Com 7-9, o feito é forte o suficiente apenas para distrair e confundi-lo. Com 6-, o alvo se torna agitado e perturbado, tendo seus desejos interiores atiçados pelo seu fogo.</p>"
+    },
+    {
+      "id": "Ogdru Jahad",
+      "name": "Ogdru Jahad",
+      "description": "<p>Ganhe o movimento Ritual do Mago. O MJ sempre irá lhe dizer o que deve sacrificar para ganhar o efeito desejado.</p>"
+    },
+    {
+      "id": "Hand Crafted",
+      "name": "Feito à Mão",
+      "description": "<p>Você pode usar suas mãos no lugar de ferramentas e fogo para criar objetos de metal. Armas mundanas, armadura e jóias de metal podem ser formadas utilizando as matérias primas necessárias. Você também pode desfazer estas coisas, mas fazer isto sem tempo ou um ambiente seguro requer que você desafie o perigo.</p>"
+    }
+  ]
+}

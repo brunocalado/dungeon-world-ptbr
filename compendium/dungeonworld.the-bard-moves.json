@@ -1,0 +1,134 @@
+{
+  "label": "Movimentos do Bardo",
+  "mapping": {
+    "description": "system.description",
+    "requiresMove": "system.requiresMove"
+  },
+  "entries": [
+    {
+      "id": "Con",
+      "name": "Passar a Perna",
+      "description": "<p> Quando <strong>negociar com um alvo</strong>, com 7+, receba também +1 adiante contra ele e faça ao seu jogador uma pergunta que deve ser respondida honestamente. </p>",
+      "requiresMove": "Mistificar"
+    },
+    {
+      "id": "It Goes To Eleven",
+      "name": "Volume Máximo",
+      "description": "<p>Quando <strong>desencadear uma performance ensandecida</strong> (um solo de flauta inflamado, uma explosão de tambores de bronze, uma dança interpretativa confusa), escolha um alvo capaz de ouvi-lo e role+CAR. Com 10+, o alvo fica confuso e ataca seu aliado mais próximo. Com 7-9, o alvo ainda ataca seu aliado mais próximo, mas você atrai sua atenção e sua ira.</p>"
+    },
+    {
+      "id": "Eldritch Chord",
+      "name": "Acorde Sobrenatural",
+      "description": "<p>Sua <strong>arte arcana é poderosa</strong>, permitindo que escolha dois efeitos no lugar de apenas um.</p>",
+      "requiresMove": "Tons Sobrenaturais"
+    },
+    {
+      "id": "An Ear For Magic",
+      "name": "Ouvido Bom para Magia",
+      "description": "<p>Quando <strong>ouvir um inimigo conjurar uma magia</strong>, o MJ lhe dirá qual é o nome da magia e seus efeitos. Receba +1 adiante quando agir de acordo com essas informações.</p>"
+    },
+    {
+      "id": "Charming & Open",
+      "name": "Charmoso e Receptivo",
+      "description": "<p>Quando <strong>conversar francamente com alguém</strong>, você pode fazer ao seu jogador uma pergunta da lista abaixo, que deve ser respondida com honestidade. Aquele jogador então poderá também lhe fazer uma pergunta da lista abaixo (que você também precisa responder honestamente):</p>\n<ul>\n<li>• A quem você serve?</li>\n<li>• O que você quer que eu faça?</li>\n<li>• Como faço para conseguir que você ________________?</li>\n<li>• O que você realmente está sentindo agora?</li>\n<li>• O que você mais deseja? </li>\n</ul>"
+    },
+    {
+      "id": "Duelist’s Block",
+      "name": "Bloqueio do Duelista",
+      "description": "<p>Quando <strong>Matar e Pilhar</strong>, receba +2 adiante de armadura.</p>",
+      "requiresMove": "Aparo do Duelista"
+    },
+    {
+      "id": "Metal Hurlant",
+      "name": "Grito Metálico",
+      "description": "<p>Quando <strong>gritar com muita força ou tocar uma nota devastadora</strong>, escolha um alvo e role+CON. Com 10+, o alvo recebe 1d10 de dano e é ensurdecido por alguns minutos. Com 7-9, você ainda causa dano ao seu alvo, mas perde o controle, e o MJ escolhe um alvo adicional que esteja próximo.</p>"
+    },
+    {
+      "id": "Eldritch Tones",
+      "name": "Tons Sobrenaturais",
+      "description": "<p>Sua <strong>arte arcana é poderosa</strong>, permitindo que escolha dois efeitos no lugar de apenas um.</p>"
+    },
+    {
+      "id": "Multiclass Master",
+      "name": "Mestre em Multiclasse",
+      "description": "<p>Escolha e adquira um movimento de outra classe. Trate seu nível como se fosse nível -1 no momento da escolha.</p>"
+    },
+    {
+      "id": "Unforgettable Face",
+      "name": "Rosto Inesquecível",
+      "description": "<p>Quando <strong>encontrar alguém com quem já tenha se encontrado anteriormente</strong> (decisão do jogador) após terem passado algum tempo sem se ver, receba +1 adiante contra essa pessoa.</p>"
+    },
+    {
+      "id": "Healing Song",
+      "name": "Canção da Cura",
+      "description": "<p>Quando <strong>curar usando arte arcana</strong>, cure +1d8 de dano.</p>"
+    },
+    {
+      "id": "A Port In The Storm",
+      "name": "Um Porto na Tempestade",
+      "description": "<p>Quando <strong>retornar a um local civilizado que já tenha visitado previamente</strong>, diga ao MJ quando esteve aqui pela última vez. Ele lhe responderá quais foram as mudanças ocorridas desde aquela época.</p>"
+    },
+    {
+      "id": "Vicious Cacophony",
+      "name": "Cacofonia Violenta",
+      "description": "<p>Quando <strong>conceder bônus para o dano usando arte arcana</strong>, conceda +1d4 de dano extra.</p>"
+    },
+    {
+      "id": "Multiclass Dabbler",
+      "name": "Amador em Multiclasse",
+      "description": "<p>Escolha e adquira um movimento de outra classe. Trate seu nível como se fosse nível -1 no momento da escolha.</p>"
+    },
+    {
+      "id": "Arcane Art",
+      "name": "Arte Arcana",
+      "description": "<p>Quando <strong>tecer um feitiço básico a partir de uma performance</strong>, escolha um aliado e um efeito:</p>\n<ul>\n<li>• Curar 1d8 PV;</li>\n<li>• +1d4 adiante para o dano;</li>\n<li>• Remover um encantamento que esteja afetando sua mente;</li>\n<li>• Na próxima vez que alguém Ajudar o alvo, ele receberá +2, e não +1;</li>\n</ul>\n<p>E depois role+CAR. Com 10+, o aliado recebe o efeito selecionado. Com 7-9, sua magia funciona, mas você atrai atenção indesejável, ou a sua magia reverbera para outros alvos à escolha do MJ, afetando-os também.</p>\n<p>Rolamento de cura: [[/roll 1d8]]</p>\n<p>Rolamento de dano adiante: [[/roll 1d4]]</p>"
+    },
+    {
+      "id": "A Little Help From My Friends",
+      "name": "Uma Pequena Ajuda de Meus Amigos",
+      "description": "<p>Quando <strong>conseguir ajudar alguém</strong>, receba +1 adiante também.</p>"
+    },
+    {
+      "id": "Devious",
+      "name": "Desleal",
+      "description": "<p>Quando <strong>for charmoso(a) e receptivo(a)</strong>, você também pode perguntar “Como você seria vulnerável a mim?”. Seu alvo não pode lhe fazer esta pergunta.</p>"
+    },
+    {
+      "id": "Vicious Blast",
+      "name": "Explosão Sonora Violenta",
+      "description": "<p>Quando <strong>conceder bônus para o dano usando arte arcana</strong>, conceda +2d4 de dano extra.</p>\n<p>Rolagem de bônus de dano: [[/roll 2d4]]</p>",
+      "requiresMove": "Cacofonia Violenta"
+    },
+    {
+      "id": "Multiclass Initiate",
+      "name": "Iniciado em Multiclasse",
+      "description": "<p>Escolha e adquira um movimento de outra classe. Trate seu nível como se fosse nível -1 no momento da escolha.</p>"
+    },
+    {
+      "id": "Bardic Lore",
+      "name": "Conhecimento de Bardo",
+      "description": "<p>Escolha uma área de especialização:</p>\n<ul>\n<li>• Magias e Feitiços;</li>\n<li>• Os Mortos e os Mortos-Vivos;</li>\n<li>• Grandes Histórias do Mundo Conhecido;</li>\n<li>• Um Bestiário de Criaturas Incomuns;</li>\n<li>• As Esferas Planares;</li>\n<li>• Lendas de Heróis do Passado;</li>\n<li>• Os Deuses e seus Servos;</li>\n</ul>\n<p>Quando <strong>encontrar pela primeira vez uma criatura, local ou item importante (decisão do jogador)</strong> que esteja ligado ao seu conhecimento de bardo, você pode fazer uma pergunta qualquer ao MJ a respeito daquilo, que ele deve responder honestamente. O MJ pode lhe perguntar qual foi a lenda, canção ou fábula na qual você ouviu tal informação.</p>"
+    },
+    {
+      "id": "Reputation",
+      "name": "Reputação",
+      "description": "<p>Quando <strong>encontrar pela primeira vez pessoas que já tenham ouvido canções a seu respeito</strong>, role+CAR. Com 10+, diga ao MJ duas coisas que elas saberiam a seu respeito. Com 7-9, diga ao MJ uma coisa, e ele dirá outra.</p>"
+    },
+    {
+      "id": "Healing Chorus",
+      "name": "Refrão da Cura",
+      "description": "<p>Quando <strong>curar usando arte arcana</strong>, cure +2d8 de dano.</p>\n<p>Rolamento de cura: [[/rol 2d8]]</p>",
+      "requiresMove": "Canção da Cura"
+    },
+    {
+      "id": "Duelist’s Parry",
+      "name": "Aparo do Duelista",
+      "description": " <p>Quando <strong>matar e pilhar</strong>, receba +1 adiante de armadura.</p>"
+    },
+    {
+      "id": "Bamboozle",
+      "name": "Mistificar",
+      "description": "<p>Quando <strong>negociar com um alvo</strong>, caso obtenha +7, receba também +1 adiante contra ele.</p>"
+    }
+  ]
+}

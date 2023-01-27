@@ -1,0 +1,146 @@
+{
+  "label": "Movimentos do Clérigo",
+  "mapping": {
+    "description": "system.description",
+    "requiresMove": "system.requiresMove"
+  },
+  "entries": [
+    {
+      "id": "First Aid",
+      "name": "Primeiros Socorros",
+      "description": "<p>Curar Ferimentos Leves é considerado uma oração para você, logo, não conta para o seu limite de feitiços concedidos.</p>"
+    },
+    {
+      "id": "The Scales Of Life And Death",
+      "name": "O Equilíbrio Entre a Vida e a Morte",
+      "description": "<p>Quando <strong>alguém tomar seu último suspiro</strong> em sua presença, essa pessoa receberá +1 na rolagem.</p>"
+    },
+    {
+      "id": "Divine Intervention",
+      "name": "Intervenção Divina",
+      "description": "<p>Quando <strong>comungar</strong>, receba domínio 1 e perca todo o domínio que possuía. Gaste esse domínio quando você ou um aliado receber dano para invocar sua divindade. Ela irá intervir através de uma manifestação adequada (uma ventania súbita, um escorregão sortudo, uma explosão de luz) e negar todo o dano.</p>"
+    },
+    {
+      "id": "Chosen One",
+      "name": "O Escolhido",
+      "description": "<p>Escolha um feitiço. Ele lhe é concedido como se fosse 1 nível menor.</p>"
+    },
+    {
+      "id": "Deity",
+      "name": "Divindade",
+      "description": "<p>Você serve e adora uma divindade ou poder que lhe concede feitiços. Dê um nome ao seu deus e escolha seu domínio:</p>\n<ul>\n<li>• Cura e Restauração;</li>\n<li>• Conquista Sangrenta;</li>\n<li>• Civilização;</li>\n<li>• Conhecimento e Coisas Ocultas;</li>\n<li>• Os Oprimidos e Esquecidos;</li>\n<li>• O Que Existe Abaixo.</li>\n</ul>\n<p>Escolha um preceito de sua religião:</p>\n<ul>\n<li>• Sua religião prega a santidade do sofrimento. Adicione <strong>Súplica: Sofrimento;</strong></li>\n<li>• Sua religião é cultista e insular. Adicione <strong>Súplica: Ganhando Segredos;</strong></li>\n<li>• Sua religião possui importantes rituais de sacrifício. Adicione <strong>Súplica: Oferenda;</strong></li>\n<li>• Sua religião acredita em julgamento pelo combate. Adicione <strong>Súplica: Vitória Pessoal</strong></li>\n</ul>"
+    },
+    {
+      "id": "Cast A Spell",
+      "name": "Conjurar um Feitiço",
+      "description": "<p>Quando <strong>conjurar um feitiço conferido a você por sua divindade</strong>, role+SAB. Com 10+, o feitiço é conjurado com sucesso e sua divindade não o revoga, logo, você poderá conjurá-lo novamente.</p>\n<ul>\n<li> Com 7-9, o feitiço é conjurado, mas escolha um:</li>\n<li>• Você atrai atenção indesejada ou se coloca em evidência (o MJ descreverá como);</li>\n<li>• Sua conjuração lhe distancia de sua divindade – receba -1 constante em conjurar feitiços até a próxima vez que comungar novamente;</li>\n<li>• Após conjurar o feitiço, ele é revogado por sua divindade. Você não pode conjurá-lo novamente até comungar e recebê-lo novamente.</li>\n</ul>\n<p>Repare que a manutenção de feitiços com efeitos contínuos poderá lhe causar penalidades em sua jogada de conjurar feitiços em alguns casos.</p>"
+    },
+    {
+      "id": "Divine Invincibility",
+      "name": "Invencibilidade Divina",
+      "description": "<p>Quando <strong>comungar</strong>, receba domínio 2 e perca todo o domínio que possuía. Gaste 1 domínio quando você ou um aliado receber dano para invocar sua divindade. Ela irá intervir através de uma manifestação adequada (uma ventania súbita, um escorregão sortudo, uma explosão de luz) e negar todo o dano.</p>",
+      "requiresMove": "Intervenção Divina"
+    },
+    {
+      "id": "Invigorate",
+      "name": "Revigorar",
+      "description": "<p>Quando <strong>curar alguém</strong>, essa pessoa receberá +2 adiante em seu dano.</p>"
+    },
+    {
+      "id": "Martyr",
+      "name": "Martir",
+      "description": "<p>Quando <strong>receber dano e abraçar a dor</strong>, você pode sofrer +1d4 de dano (ignorando armadura). Caso o faça, receba +1 adiante para conjurar feitiços e some seu nível ao dano causado ou curado por ele.</p>\n<p>Rolagem adicional de dano: [[/roll 1d4]]</p>",
+      "requiresMove": "Penitente"
+    },
+    {
+      "id": "Reaper",
+      "name": "Ceifador",
+      "description": "<p>Quando parar um momento após um conflito para dedicar sua vitória à sua divindade e lidar adequadamente com os mortos, receba +1 adiante.</p>"
+    },
+    {
+      "id": "Greater Empower",
+      "name": "Potencializar Superior",
+      "description": "<p>Quando <strong>conjurar um feitiço</strong>, com 10+ você pode optar por escolher um item da lista de 7-9. Caso o faça, escolha um dos efeitos abaixo também. Com 12+, escolha em desses efeitos de graça:</p>\n<ul>\n<li>• Os efeitos da magia são dobrados</li>\n<li>• Os alvos da magia são dobrados </li>\n</ul>",
+      "requiresMove": "Potencializar"
+    },
+    {
+      "id": "Multiclass Dabbler",
+      "name": "Amador em Multiclasse",
+      "description": "<p>Escolha e adquira um movimento de outra classe. Trate seu nível como se fosse 1 menor no momento da escolha.</p>"
+    },
+    {
+      "id": "Divine Protection",
+      "name": "Proteção Divina",
+      "description": "<p>Quando <strong>não estiver usando armadura ou escudo</strong>, receba armadura 2.</p>"
+    },
+    {
+      "id": "Greater First Aid",
+      "name": "Primeiro Socorros Superiores",
+      "description": "<p>Curar Ferimentos Moderados é considerado uma oração para você, logo, não conta para o seu limite de feitiços concedidos.</p>",
+      "requiresMove": "Primeiros Socorros"
+    },
+    {
+      "id": "Turn Undead",
+      "name": "Expulsar Mortos-Vivos",
+      "description": "<p>Quando <strong>erguer seu símbolo sagrado e chamar por sua divindade em busca de proteção</strong>, role+SAB. Com 7+, enquanto continuar brandindo seu símbolo sagrado em oração, nenhum morto-vivo poderá se aproximar de você. Com 10+, mortos-vivos inteligentes ficam momentaneamente ofuscados, e mortos-vivos sem mente fogem. Qualquer agressão quebra este efeito e as criaturas podem voltar a agir normalmente. Mortos-vivos inteligentes ainda podem encontrar meios de lhe causar mal à distância. Eles são espertos assim.</p>"
+    },
+    {
+      "id": "Anointed",
+      "name": "Abençoado",
+      "description": "<p>Escolha um feitiço diferente daquele já selecionado anteriormente. Ele lhe é concedido como se fosse 1 nível menor.</p>",
+      "requiresMove": "Escolha um"
+    },
+    {
+      "id": "Serenity",
+      "name": "Serenidade",
+      "description": "<p>Quando <strong>conjurar um feitiço</strong>, ignore -1 de penalidade relacionada a feitiços contínuos.</p>"
+    },
+    {
+      "id": "Orison For Guidance",
+      "name": "Prece por Orientação",
+      "description": "<p>Quando <strong>sacrificar algo de valor para sua divindade e rezar pedindo por sua orientação</strong>, sua divindade lhe dirá o que ela quer que você faça. Se você o fizer, marque experiência.</p>"
+    },
+    {
+      "id": "Empower",
+      "name": "Potencializar",
+      "description": "<p>Quando <strong>conjurar um feitiço</strong>, com você pode optar por escolher um item da lista de 7-9. Caso o faça, escolha também um dos efeitos abaixo:</p>\n<ul>\n<li>• Os efeitos da magia são dobrados</li>\n<li>• Os alvos da magia são dobrados</li>\n</ul>"
+    },
+    {
+      "id": "Divine Armor",
+      "name": "Armadura Divina",
+      "description": "<p>Quando <strong>não estiver usando armadura ou escudo</strong>, receba armadura 3.</p>",
+      "requiresMove": "Proteção Divina"
+    },
+    {
+      "id": "Commune",
+      "name": "Comungar",
+      "description": "<p>Quando <strong>passar algum tempo ininterrupto em silenciosa comunhão com sua divindade</strong> (uma hora, aproximadamente), você:</p>\n<ul>\n<li>• Perde todos os feitiços que lhe foram concedidos.</li>\n<li>• Recebe novos feitiços à sua escolha, cujo total de níveis não supere seu próprio nível+1. O nível de nenhum deles pode superar o seu.</li>\n<li>• Prepare todas as suas orações – elas não contam para o limite acima. </li>\n</ul>"
+    },
+    {
+      "id": "Providence",
+      "name": "Providência",
+      "description": "<p>Ignore a penalidade de -1 proveniente de dois feitiços que esteja mantendo.</p>",
+      "requiresMove": "Serenidade"
+    },
+    {
+      "id": "Divine Guidance",
+      "name": "Orientação Divina",
+      "description": "<p>Quando <strong>fizer uma súplica adequada aos preceitos de sua religião</strong>, sua divindade lhe concederá algum conhecimento útil ou benefício relacionado aos seus domínios. O MJ lhe dirá qual.</p>"
+    },
+    {
+      "id": "Apotheosis",
+      "name": "Apoteose",
+      "description": "<p>Na próxima vez <strong>que passar algum tempo em oração apropriada para seu deus após optar por este movimento</strong>, escolha uma característica associada a ele (garras dilaceradoras, asas de penas de safira, um terceiro olho que tudo vê, etc.). Assim que emergir de suas preces, ganhe permanentemente tal característica física.</p>"
+    },
+    {
+      "id": "Devoted Healer",
+      "name": "Curandeiro Devoto",
+      "description": "<p>Quando <strong>curar outra pessoa</strong>, adicione seu nível à quantidade de dano curado.</p>"
+    },
+    {
+      "id": "Penitent",
+      "name": "Penitente",
+      "description": "<p>Quando <strong>receber dano e abraçar a dor</strong>, você pode sofrer +1d4 de dano (ignorando armadura). Caso o faça, receba +1 adiante para conjurar feitiços.</p>\n<p>Rolamento bônus de dano: [[/roll 1d4]]</p>"
+    }
+  ]
+}

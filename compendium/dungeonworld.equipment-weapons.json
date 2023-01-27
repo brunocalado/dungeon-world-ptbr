@@ -1,0 +1,158 @@
+{
+  "label": "Equipamentos (Armas)",
+  "mapping": {
+    "description": "system.description",
+    "tags": "system.tags"
+  },
+  "entries": [
+    {
+      "id": "Shiv",
+      "name": "Shiv",
+      "description": "<p>Uma arma improvisada com uma ponta afiada.</p>",
+      "tags": "[{\"value\":\"mão\"}]"
+    },
+    {
+      "id": "Shillelagh",
+      "name": "Shillelagh",
+      "description": "<p>Um espesso bordão de carvalho.</p>",
+      "tags": "[{\"value\":\"corpo a corpo\"}]"
+    },
+    {
+      "id": "Spear",
+      "name": "Lança",
+      "description": "<p><span style=\"color: #222222; font-family: Roboto, arial, sans-serif; font-size: small; background-color: #ffffff;\">Uma arma com uma haste longa e uma ponta de metal pontiaguda.</span></p>",
+      "tags": "[{\"value\":\"alcance\"},{\"value\":\"arremesso\"},{\"value\":\"próximo\"}]"
+    },
+    {
+      "id": "Dueling Rapier",
+      "name": "Florete de Duelo",
+      "description": "<p>Uma lâmina fina de dois gumes, bem balanceada, usada com apenas uma mão.</p>",
+      "tags": "[{\"value\":\"corpo a corpo\"},{\"value\":\"1 penetrante\"},{\"value\":\"preciso\"}]"
+    },
+    {
+      "id": "Short Sword",
+      "name": "Espada Curta",
+      "description": "<p>Uma espada usada com apenas uma mão.</p>",
+      "tags": "[{\"value\":\"corpo a corpo\"}]"
+    },
+    {
+      "id": "Crossbow",
+      "name": "Besta",
+      "description": "<p>Um arco mecânico.</p>",
+      "tags": "[{\"value\":\"próximo\"},{\"value\":\"recarga\"},{\"value\":\"+1 de dano\"}]"
+    },
+    {
+      "id": "Halberd",
+      "name": "Alabarda",
+      "description": "<p>Uma arma de haste de duas mãos.</p>",
+      "tags": "[{\"value\":\"alcance\"},{\"value\":\"+1 de dano\"},{\"value\":\"duas mãos\"}]"
+    },
+    {
+      "id": "Mace",
+      "name": "Maça",
+      "description": "<p><span style=\"color: #222222; font-family: Roboto, arial, sans-serif; font-size: 16px; background-color: #ffffff;\">Uma arma com uma cabeça pesada em uma haste sólida, usada para golpear os oponentes.</span></p>",
+      "tags": "[{\"value\":\"corpo a corpo\"}]"
+    },
+    {
+      "id": "Axe",
+      "name": "Machado",
+      "description": "<p>Uma instrumento que pode ser usado para rachar e cortar madeira ou como uma arma.</p>",
+      "tags": "[{\"value\":\"corpo a corpo\"}]"
+    },
+    {
+      "id": "Two-handed sword",
+      "name": "Espada de Duas Mãos",
+      "tags": "[{\"value\":\"corpo a corpo\"},{\"value\":\"+1 de dano\"}]"
+    },
+    {
+      "id": "Rapier",
+      "name": "Florete",
+      "description": "<p>Uma lâmina fina, de ponta afiada e com dois gumes, usada com apenas uma mão.</p>",
+      "tags": "[{\"value\":\"corpo a corpo\"},{\"value\":\"preciso\"}]"
+    },
+    {
+      "id": "Long Sword",
+      "name": "Espada Longa",
+      "description": "<p>Uma espada de duas mãos com uma lâmina longa.</p>",
+      "tags": "[{\"value\":\"corpo a corpo\"},{\"value\":\"+1 de dano\"}]"
+    },
+    {
+      "id": "Flail",
+      "name": "Mangual",
+      "description": "<p><span style=\"color: #4d5156; font-family: Roboto, arial, sans-serif; background-color: #ffffff;\">Uma arma que consiste em uma cabeça marcante presa a um cabo por uma corrente.</span></p>",
+      "tags": "[{\"value\":\"corpo a corpo\"},{\"value\":\"+1 de dano\"}]"
+    },
+    {
+      "id": "Bundle of Arrows",
+      "name": "Maço de Flechas",
+      "description": "<p>Um feixe de flechas médias.</p>",
+      "tags": "[{\"value\":\"munição 3\"}]"
+    },
+    {
+      "id": "Battle Axe",
+      "name": "Machado de Batalha",
+      "description": "<p>Uma machado de duas mãos feito para o combate.</p>",
+      "tags": "[{\"value\":\"corpo a corpo\"},{\"value\":\"+1 de dano\"}]"
+    },
+    {
+      "id": "War hammer",
+      "name": "Martelo de Batalha",
+      "description": "<p>Um grande martelo de metal, ótimo para esmagar crânios.</p>",
+      "tags": "[{\"value\":\"corpo a corpo\"}]"
+    },
+    {
+      "id": "Club",
+      "name": "Clava",
+      "description": "<p>Uma arma sem corte feita de madeira.</p>",
+      "tags": "[{\"value\":\"corpo a corpo\"}]"
+    },
+    {
+      "id": "Ragged Bow",
+      "name": "Arco Rústico",
+      "description": "<p>Um arco muito usado.</p>",
+      "tags": "[{\"value\":\"próximo\"}]"
+    },
+    {
+      "id": "Knife",
+      "name": "Faca",
+      "description": "<p>Uma ferramenta com uma aresta cortante.</p>",
+      "tags": "[{\"value\":\"mão\"}]"
+    },
+    {
+      "id": "Elven Arrows",
+      "name": "Flechas Élficas",
+      "description": "<p>Felchas finamente criadas por elfos.</p>",
+      "tags": "[{\"value\":\"munição 4\"}]"
+    },
+    {
+      "id": "Dagger",
+      "name": "Adaga",
+      "description": "<p>Uma pequena lâmina de metal.</p>",
+      "tags": "[{\"value\":\"mão\"}]"
+    },
+    {
+      "id": "Throwing Dagger",
+      "name": "Adaga de Arremesso",
+      "description": "<p>Uma adaga leve muito e balanceada para precisão.</p>",
+      "tags": "[{\"value\":\"arremesso\"},{\"value\":\"próximo\"}]"
+    },
+    {
+      "id": "Fine Bow",
+      "name": "Arco de Alta Qualidade",
+      "description": "<p>Um arco feito por um artesão experiente.</p>",
+      "tags": "[{\"value\":\"próximo\"},{\"value\":\"distante\"}]"
+    },
+    {
+      "id": "Staff",
+      "name": "Cajado",
+      "description": "<p>Um bastão de madeira esculpido para ser usado como uma ferramenta de impacto.</p>",
+      "tags": "[{\"value\":\"corpo a corpo\"},{\"value\":\"duas mãos\"}]"
+    },
+    {
+      "id": "Hunter's Bow",
+      "name": "Arco de Caçador",
+      "description": "<p>Um arco perfeitamente ajustado para velocidade e precisão.</p>",
+      "tags": "[{\"value\":\"próximo\"},{\"value\":\"distante\"}]"
+    }
+  ]
+}

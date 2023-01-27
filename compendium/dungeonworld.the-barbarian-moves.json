@@ -1,0 +1,140 @@
+{
+  "label": "Movimentos do Bárbaro",
+  "mapping": {
+    "description": "system.description",
+    "requiresMove": "system.requiresMove"
+  },
+  "entries": [
+    {
+      "id": "Mark Of Might",
+      "name": "Marca de Poder",
+      "description": "<p>Quando adquirir este movimento e <strong>gastar algum tempo ininterrupto refletindo a respeito de suas glórias passadas</strong>, você poderá se marcar com um símbolo de seu poder (uma longa trança amarrada com sinos, tatuagens ou cicatrizes rituais, etc.). Qualquer criatura mortal inteligente que enxergue o símbolo saberá instintivamente que você é uma força a ser reconhecida, e o tratará de acordo.</p>"
+    },
+    {
+      "id": "Wide-Wanderer",
+      "name": "Grande Viajante",
+      "description": "<p>Você já empreendeu jornadas por todos os lugares do mundo. Quando <strong>chegar em algum lugar</strong>, pergunte ao MJ a respeito de tradições importantes, rituais e similares, e ele lhe dirá o que precisa saber.</p>"
+    },
+    {
+      "id": "What Is Best In Life",
+      "name": "As Melhores Coisas da Vida",
+      "description": "<p>No final da sessão, se tiver esmagado seus inimigos, vê-los fugir diante de sua presença e ouvir os lamentos de seus parentes, marque XP.</p>"
+    },
+    {
+      "id": "The Upper Hand",
+      "name": "Controle da Situação",
+      "description": "<p>Você recebe +1 constante para seu último suspiro. Quando <strong>realizar o último suspiro</strong>, com 7-9 você pode fazer uma oferta para a Morte em troca de sua vida. Se a Morte aceitar, você viverá de novo. Caso contrário, você morre.</p>"
+    },
+    {
+      "id": "Herculean Appetites",
+      "name": "Apetite Hercúleo",
+      "description": "<p>Outras pessoas podem se contentar apenas com o gosto do vinho, o domínio sobre um servo ou ambos, mas você quer mais. Escolha dois apetites. Enquanto <strong>estiver perseguindo um de seus apetites, se realizar algum movimento</strong>, no lugar de rolar 2d6 você rola 1d6+1d8. Se o d6 apresentar o maior resultado do par, o MJ também irá introduzir uma complicação ou perigo que surge a partir de sua busca implacável.</p>\n<ul>\n<li>• Pura destruição</li>\n<li>• Poder sobre outras pessoas</li>\n<li>• Prazeres mortais</li>\n<li>• Conquista</li>\n<li>• Riquezas e propriedades</li>\n<li>• Fama e glória </li>\n</ul>"
+    },
+    {
+      "id": "Healthy Distrust",
+      "name": "Desconfiança Saudável",
+      "description": "<p>Sempre que a magia impura manipulada por homens mortais o obrigar a <strong>desafiar o perigo</strong>, trate qualquer resultado de 6- como se fosse 7-9.</p>"
+    },
+    {
+      "id": "A Good Day To Die",
+      "name": "Um Ótimo dia Para Morrer",
+      "description": "<p>Enquanto tiver menos PV do que sua CON (ou 1, o que for maior), receba +1 constante.</p>"
+    },
+    {
+      "id": "Khan Of Khans",
+      "name": "Khan dos Khans",
+      "description": "<p>Seus servos sempre aceitam a satisfação gratuita de um apetite seu como pagamento.</p>"
+    },
+    {
+      "id": "Full Plate and Packing Steel",
+      "name": "Armadura de Placas e Portando Aço",
+      "description": "<p>Você ignora o rótulo desengonçada das armaduras que vestir.</p>"
+    },
+    {
+      "id": "Samson",
+      "name": "Sansão",
+      "description": "<p>Você pode aceitar uma debilidade para imediatamente se livrar de qualquer restrição física ou mental.</p>"
+    },
+    {
+      "id": "The One Who Knocks",
+      "name": "Aquele que Bate à Porta",
+      "description": "<p>Quando <strong>desafiar o perigo</strong>, com 12+ você vira o perigo de volta contra ele mesmo. O MJ lhe descreverá como.</p>"
+    },
+    {
+      "id": "Musclebound",
+      "name": "Musculoso",
+      "description": "<p>Quando <strong>portar uma arma</strong>, ela recebe os rótulos <em>poderoso</em> e <em>grotesco</em>.</p>"
+    },
+    {
+      "id": "Indestructible Hunger",
+      "name": "Fome Indestrutível",
+      "description": "<p>Quando for <strong>receber dano</strong>, você pode optar por receber -1 constante até saciar um de seus apetites no lugar do dano. Você não poderá escolher esta opção enquanto estiver com essa penalidade ativa.</p>"
+    },
+    {
+      "id": "On The Move",
+      "name": "Sempre em Frente",
+      "description": "<p>Quando <strong>desafiar o perigo causado por algum movimento</strong> (como cair de uma ponte estreita ou passar correndo por um guarda armado), receba +1.</p>"
+    },
+    {
+      "id": "Kill 'Em All",
+      "name": "Mate a Todos",
+      "description": "<p>Pegue mais um movimento da lista do guerreiro, bardo ou ladrão. Você não pode pegar os movimentos de multiclasse dessas classes.</p>",
+      "requiresMove": "Apetite por Destruição"
+    },
+    {
+      "id": "What Are You Waiting For?",
+      "name": "O Que Você Está Esperando?",
+      "description": "<p>Quando <strong>gritar um desafio para seus inimigos</strong>, role+CON. Com 10+ eles passam a lhe tratar como a ameaça mais óbvia a ser enfrentada, ignorando os seus companheiros, e você recebe +2 de dano constante contra eles. Com 7-9 apenas alguns (os mais fracos ou tolos dentre eles) caem em suas provocações.</p>"
+    },
+    {
+      "id": "My Love For You Is Like A Truck",
+      "name": "Meu Amor por Você é Como um Caminhão",
+      "description": "<p>Quando <strong>realizar um feito de força</strong>, nomeie alguém presente que tenha ficado impressionado por ele, e receba +1 adiante para negociar com essa pessoa.</p>"
+    },
+    {
+      "id": "For The Blood God",
+      "name": "Pelo Deus do Sangue",
+      "description": "<p>Você foi iniciado nos velhos caminhos, os caminhos do sacrifício. Escolha alguma coisa que seus deuses (ou espíritos ancestrais, totem, etc.) valorizem - ouro, sangue, ossos ou coisa do gênero. Quando <strong>sacrificar essas coisas em seus ritos e rituais</strong>, role+SAB.</p>\n<ul>\n<li>Com 10+, o MJ lhe concederá algum conhecimento a respeito dos seus problemas atuais, ou uma bênção que irá ajudá-lo.</li>\n<li>Com 7-9, o sacrifício não foi sufi ciente, e seus deuses exigem também que você ofereça sua carne, mas ainda lhe concedem o conhecimento ou a bênção. Com 6-, você consegue apenas a ira dos espíritos volúveis</li>\n</ul>"
+    },
+    {
+      "id": "Appetite For Destruction",
+      "name": "Apetite por Destruição",
+      "description": "<p>Pegue um movimento da lista do guerreiro, bardo ou ladrão. Você não pode pegar os movimentos de multiclasse dessas classes.</p>"
+    },
+    {
+      "id": "Unencumbered, Unharmed",
+      "name": "Desimpedido e Ileso",
+      "description": "<p>Enquanto estiver abaixo de sua Carga, e não estiver usando armadura nem escudo, receba +1 de armadura.</p>"
+    },
+    {
+      "id": "Usurper",
+      "name": "Usurpador",
+      "description": "<p>Quando <strong>se provar superior a uma pessoa no poder</strong>, receba +1 adiante contra seus seguidores, servos e puxa-sacos.</p>"
+    },
+    {
+      "id": "More! Always More!",
+      "name": "Mais! Sempre Mais!",
+      "description": "<p>Quando <strong>satisfizer um de seus apetites</strong> de <strong>forma extrema</strong> (destruindo algo único e significante, ganhando uma fama, riqueza ou poder enormes, etc.) você pode optar por resolvê-lo permanentemente. Risque-o de sua lista e marque XP. Apesar de poder buscar aquele apetite novamente, você não sente mais o desejo ardente que uma vez sentiu. Em seu lugar, escolha um novo apetite da lista ou escreva seu próprio.</p>"
+    },
+    {
+      "id": "Still Hungry",
+      "name": "Continuo Faminto",
+      "description": "<p>Escolha um apetite adicional.</p>"
+    },
+    {
+      "id": "War Cry",
+      "name": "Grito de Guerra",
+      "description": "<p>Quando <strong>entrar na batalha fazendo uma demonstração de força</strong> (um urro, um grito encorajador, uma dança de batalha), role+CAR. Com 10+, ambos. Com 7-9, escolha um ou outro.</p>\n<ul>\n<li>• Seus aliados são encorajados e recebem +1 adiante</li>\n<li>• Seus inimigos sentirão medo e agirão de acordo (evitando-o, escondendo-se, tacando com abandono direcionado pelo medo)</li>\n</ul>"
+    },
+    {
+      "id": "Eye for Weakness",
+      "name": "Percepção de Pontos Fracos",
+      "description": "<p>Quando <strong>discernir realidades</strong>, acrescente “o que aqui é fraco ou vulnerável?” à lista de perguntas que você pode fazer.</p>"
+    },
+    {
+      "id": "Smash!",
+      "name": "Esmagar!",
+      "description": "<p>Quando <strong>matar e pilhar</strong>, com 12+ cause seu dano e escolha algum objeto físico que seu alvo possua (uma arma, sua posição, um membro): ele perde o objeto escolhido.</p>"
+    }
+  ]
+}

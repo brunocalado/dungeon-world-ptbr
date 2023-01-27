@@ -1,0 +1,79 @@
+{
+  "label": "Equipamento (Apetrechos)",
+  "mapping": {
+    "description": "system.description",
+    "tags": "system.tags"
+  },
+  "entries": [
+    {
+      "id": "Elven Bread",
+      "name": "Pão Élfico",
+      "description": "<p>Apenas os maiores dos amigos dos elfos recebem esta rara delícia.</p>",
+      "tags": "[{\"value\":\"ração\"}]"
+    },
+    {
+      "id": "Anti-Toxin",
+      "name": "Antitoxina",
+      "description": "<p>Quando beber uma antitoxina, você será curado de um veneno que lhe estiver afligindo.</p>",
+      "tags": "[{\"value\":\"10 moedas\"}]"
+    },
+    {
+      "id": "Dungeon Rations",
+      "name": "Rações de Masmorra",
+      "description": "<p>Não tem um gosto muito bom, mas também não é de todo ruim.</p>",
+      "tags": "[{\"value\":\"ração\"}]"
+    },
+    {
+      "id": "Dwarven Hardtack",
+      "name": "Bolacha Anã",
+      "description": "<p> Anões dizem que tem o sabor de sua terra natal. Todas as outras pessoas dizem que se tem sabor de terra natal, você veio de uma fazenda de suínos que estava pegando fogo.</p>",
+      "tags": "[{\"value\":\"ração\"},{\"value\":\"requer anão\"}]"
+    },
+    {
+      "id": "Healing Potion",
+      "name": "Poção de Cura",
+      "description": "<p>Quando você beber uma poção de cura inteira, cure 10 PV ou remova uma debilidade, à sua escolha.</p>",
+      "tags": "[{\"value\":\"50 moedas\"}]"
+    },
+    {
+      "id": "Halfling Pipeleaf",
+      "name": "Cachimbo Halfling",
+      "description": "<p> Quando você compartilha um cachimbo halfling com alguém, gaste dois usos e receba +1 adiante para negociar com aquela pessoa.</p>"
+    },
+    {
+      "id": "Personal Feast",
+      "name": "Banquete Pessoal",
+      "description": "<p> Pura ostentação, para dizer o mínimo.</p>",
+      "tags": "[{\"value\":\"ração\"}]"
+    },
+    {
+      "id": "Keg of Dwarven Stout",
+      "name": "Barril de Cerveja Anã",
+      "description": "<p> Quando abrir um barril de cerveja anã e deixar que todos bebam livremente, receba +1 para suas rolagens de Farrear. Se beber o barril inteiro sozinho, você fica muito, mas muito bêbado mesmo.</p>"
+    },
+    {
+      "id": "Adventuring Gear",
+      "name": "Equipamento de Aventureiro",
+      "description": "<p> O equipamento de aventureiro é uma coleção de itens mundanos úteis como giz, bastões, espigões, cordas, etc. Quando mexer em seu equipamento de aventureiro em busca de algum item mundano útil, encontre o que precisa, e gaste um uso.</p>",
+      "tags": "[{\"value\":\"20 moedas\"}]"
+    },
+    {
+      "id": "Bandages",
+      "name": "Bandagens",
+      "description": "<p>Quando tiver alguns minutos para colocar bandagens nos ferimentos de alguém, cure 4 PV daquela pessoa e gaste um uso.</p>",
+      "tags": "[{\"value\":\"lento\"}]"
+    },
+    {
+      "id": "Poultices and Herbs",
+      "name": "Pomadas e Ervas",
+      "description": "<p>Quando cuidadosamente tratar os ferimentos de uma pessoa com o uso de pomadas e ervas, cure 7 PV daquela pessoa e gaste um uso.</p>",
+      "tags": "[{\"value\":\"lento\"}]"
+    },
+    {
+      "id": "Bag of Books",
+      "name": "Sacola de Livros",
+      "description": "<p>Quando sua sacola de livros contém aquele exato tomo a respeito do assunto sobre o qual você estiver falando difícil, consulte o livro, gaste um uso, e receba +1 em sua rolagem.</p>",
+      "tags": "[{\"value\":\"10 moedas\"}]"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "label": "Movimentos do Ladrão",
+  "mapping": {
+    "description": "system.description",
+    "requiresMove": "system.requiresMove"
+  },
+  "entries": [
+    {
+      "id": "Cheap Shot",
+      "name": "Golpe Desonesto",
+      "description": "<p>Quando usar uma <strong>arma precisa ou de mão</strong>, seu<strong> ataque pelas costas</strong> causa +1d6 de dano.</p>\n<p>Rolamento adicional de dano: [[/roll 1d6]]</p>"
+    },
+    {
+      "id": "Connections",
+      "name": "Conexões",
+      "description": "<p>Quando <strong>espalhar pelo submundo rumores a respeito de algo que queira</strong> ou precise, role+CAR. Com 10+, alguém tem exatamente o que você precisa. Com 7-9, ou você terá que se contentar com algo similar, ou ficará de rabo preso – a escolha é sua.</p>"
+    },
+    {
+      "id": "Disguise",
+      "name": "Disfarce",
+      "description": "<p>Quando <strong>tiver tempo e materiais suficientes</strong>, você pode criar um disfarce capaz de enganar quaisquer observadores, fazendo-os acreditar que você seja outra criatura do mesmo tamanho e forma. Suas ações podem lhe entregar, mas sua aparência não.</p>"
+    },
+    {
+      "id": "Evasion",
+      "name": "Evasão",
+      "description": "<p>Quando <strong>desafiar o perigo</strong>, com 12+ você irá transcendê-lo. Não apenas conseguirá realizar seu intento, mas o MJ também lhe oferecerá um resultado melhor, mais belo ou um momento de graça.</p>"
+    },
+    {
+      "id": "Tricks Of The Trade",
+      "name": "Truques do Ofício",
+      "description": "<p>Quando <strong>arrombar fechaduras, bater carteiras ou desarmar armadilhas</strong>, role+DES. Com 10+, você consegue, sem problemas. Com 7-9, você ainda consegue, mas o MJ lhe oferecerá duas opções entre suspeita, perigo ou preço.</p>"
+    },
+    {
+      "id": "Alchemist",
+      "name": "Alquimista",
+      "description": "<p>Quando <strong>estiver com tempo suficiente para juntar os componentes necessários e um local seguro para preparar</strong>, você consegue criar 3 doses de qualquer veneno que já tenha usado anteriormente. Você também pode descrever os efeitos de um veneno qualquer que queira criar. O MJ lhe dirá que é possível criá-lo, porém, com um ou mais das ressalvas abaixo:</p>\n<ul>\n<li>• Ele só funcionará sob determinadas condições</li>\n<li>• O melhor que você conseguirá fazer é uma versão mais fraca</li>\n<li>• Seus efeitos demorarão a ocorrer</li>\n<li>• Ele terá efeitos colaterais óbvios</li>\n</ul>",
+      "requiresMove": "Produtor"
+    },
+    {
+      "id": "Serious Underdog",
+      "name": "Muito Oprimido",
+      "description": "<p>Receba armadura +1. Quando estiver em menor número, receba armadura +2 no lugar.</p>",
+      "requiresMove": "Oprimido"
+    },
+    {
+      "id": "Dirty Fighter",
+      "name": "Lutador Desonesto",
+      "description": "<p>Quando <strong>usar uma arma precisa ou de mão</strong>, seu ataque pelas costas causa +1d8 de dano e todos os seus outros ataques causam +1d4 de dano.</p>\n<p>Rolamento adicional de dano: [[/roll 1d8]] [[/roll 1d4]]</p>",
+      "requiresMove": "Golpe Desonesto"
+    },
+    {
+      "id": "Cautious",
+      "name": "Cauteloso",
+      "description": "<p>Quando <strong>usar especialista em armadilhas</strong>, sempre receba domínio +1, mesmo com 6-.</p>"
+    },
+    {
+      "id": "Poison Master",
+      "name": "Poison Master",
+      "description": "<p>Assim que <strong>usar um veneno pela primeira vez</strong>, ele não será mais considerado perigoso para você.</p>"
+    },
+    {
+      "id": "Underdog",
+      "name": "Oprimido",
+      "description": "<p>Quando estiver em menor número, receba armadura +1.</p>"
+    },
+    {
+      "id": "Wealth And Taste",
+      "name": "Riqueza e Bom Gosto",
+      "description": "<p>Quando <strong>fizer uma cena, mostrando a todos sua posse mais valiosa</strong>, escolha alguém presente. Essa pessoa fará qualquer coisa para obter o seu item ou um similar.</p>"
+    },
+    {
+      "id": "Shoot First",
+      "name": "Atirar Primeiro",
+      "description": "<p>Você nunca é surpreendido. Quando um inimigo surpreendê-lo, você age primeiro.</p>"
+    },
+    {
+      "id": "Strong Arm, True Aim",
+      "name": "Braço Forte, No Alvo",
+      "description": "<p>Você é capaz de arremessar qualquer arma branca, utilizando-a para disparar. Uma arma branca arremessada será perdida, logo, você não pode escolher reduzir sua munição com 7-9.</p>"
+    },
+    {
+      "id": "Escape Route",
+      "name": "Rota de Fuga",
+      "description": "<p>Quando <strong>a situação sair do controle e você precisar fugir</strong>, diga qual é sua rota de fuga e role+DES. Com 10+, você vai embora. Com 7-9, você pode ficar ou partir, mas caso opte por partir, isso irá lhe custar algo: você deixará algo para trás ou levará algo consigo, de acordo com o que o MJ lhe disser.</p>"
+    },
+    {
+      "id": "Trap Expert",
+      "name": "Especialista em Armadilhas",
+      "description": "<p>Quando <strong>parar um momento para avaliar uma área perigosa</strong>, role+DES. Com domínio 3. Com 10+, domínio 1. Gaste seu domínio enquanto anda pela área para fazer as seguintes perguntas:</p>\n<ul>\n<li>• Existe alguma armadilha aqui, e se existir, como ela é ativada?</li>\n<li>• O que a armadilha faz quando é ativada?</li>\n<li>• O que mais está escondido por aqui?</li>\n</ul>"
+    },
+    {
+      "id": "Backstab",
+      "name": "Ataque Pelas Costas",
+      "description": "<p>Quando <strong>atacar um oponente surpreso ou indefeso com uma arma de combate corpo a corpo</strong>, você pode optar entre causar dano ou rolar+DES. Com 10+, escolha dois. Com 7-9, escolha um.</p>\n<ul>\n<li>• Você não entra em combate corpo a corpo com o alvo</li>\n<li>• Você causa seu dano +1d6</li>\n<li>• Você cria uma situação vantajosa, +1 adiante para si ou para um aliado que consiga agir de acordo</li>\n<li>• Reduza a armadura do alvo em 1 até que ele consiga repará-la</li>\n</ul>\n<p>Rolamento adicional de dano: [[/roll 1d6]]</p>"
+    },
+    {
+      "id": "Envenom",
+      "name": "Envenenar",
+      "description": "<p>Você é capaz de aplicar até mesmo os venenos mais complexos com uma tachinha. Quando aplicar em sua arma um veneno que não é perigoso para você, ele é considerado de toque no lugar de aplicado.</p>"
+    },
+    {
+      "id": "Heist",
+      "name": "Assalto",
+      "description": "<p>Quando <strong>parar para planejar o roubo de alguma coisa</strong>, diga o que quer roubar e pergunte ao MJ as questões abaixo. Quando agir de acordo com as respostas, você e seus aliados recebem +1 adiante.</p>\n<ul>\n<li>• Quem perceberá a ausência do item roubado?</li>\n<li>• Qual é a sua defesa mais poderosa?</li>\n<li>• Quem virá atrás dele?</li>\n<li>• Quem mais o quer?</li>\n</ul>"
+    },
+    {
+      "id": "Flexible Morals",
+      "name": "Moral Flexível",
+      "description": "<p>Quando <strong>alguém tentar detectar seu alinhamento</strong>, você pode lhes informar qualquer alinhamento que quiser.</p>"
+    },
+    {
+      "id": "Poisoner",
+      "name": "Envenenador",
+      "description": "<p>Você se torna um mestre na manipulação e uso de determinado veneno. Escolha uma substância da lista abaixo; ela não será mais considerada perigosa quando você a utilizar. Comece o jogo com 3 doses dela de graça. Sempre que tiver tempo para reunir os materiais e um local adequado para fazer a mistura você pode fazer mais 3 doses do veneno escolhido de graça. Repare que alguns venenos são aplicados, o que significa que eles devem ser cuidadosamente administrados ao alvo ou a alguma coisa que ele coma ou beba. Venenos de toque só precisam encostar no alvo, e podem ser até mesmo aplicados na lâmina de uma arma.</p>\n<ul>\n<li><strong>• Óleo de Tagit</strong> (aplicado): o alvo entra em um estado de sono leve</li>\n<li><strong>• Erva Sangrenta</strong> (toque): o alvo causa -1d4 de dano constante até ser curado</li>\n<li><strong>• Raiz Dourada</strong> (aplicado): o alvo trata a próxima criatura que enxergar como um aliado de confiança, até que se prove o contrário</li>\n<li><strong>• Lágrimas de Serpente</strong> (toque): qualquer pessoa que causar dano ao alvo rola duas vezes e utiliza o melhor resultado</li>\n</ul>"
+    },
+    {
+      "id": "Extremely Cautious",
+      "name": "Extremamente Cauteloso",
+      "description": "<p>Quando <strong>usar especialista em armadilhas</strong>, sempre receba domínio +1, mesmo com 6-. Com 12+, receba domínio 3 e da próxima vez que se aproximar de uma armadilha, o MJ deve imediatamente lhe dizer o que ela faz, o que a dispara, quem a armou ali e como você pode usá-la para seu próprio benefício.</p>",
+      "requiresMove": "Cauteloso"
+    },
+    {
+      "id": "Brewer",
+      "name": "Produtor",
+      "description": "<p>Quando <strong>estiver com tempo suficiente para juntar os componentes necessários e um local seguro para preparar</strong>, você consegue criar 3 doses de qualquer veneno que já tenha usado anteriormente.</p>"
+    }
+  ]
+}

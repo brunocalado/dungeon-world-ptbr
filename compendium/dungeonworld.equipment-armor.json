@@ -1,0 +1,49 @@
+{
+  "label": "Equipamento (Armaduras)",
+  "mapping": {
+    "description": "system.description",
+    "tags": "system.tags"
+  },
+  "entries": [
+    {
+      "id": "Plate",
+      "name": "Armadura de Placas",
+      "description": "<p>Armadura corporal individual feita de placas de metal.</p>",
+      "tags": "[{\"value\":\"armadura 3\"},{\"value\":\"vestida\"},{\"value\":\"desengonçada\"}]"
+    },
+    {
+      "id": "Shield",
+      "name": "Escudo",
+      "description": "<p>Uma peça de armadura pessoal carregada com as mãos, que pode ou não ser presa ao pulso ou antebraço.</p>",
+      "tags": "[{\"value\":\"armadura +1\"}]"
+    },
+    {
+      "id": "Chainmail",
+      "name": "Cota de Malha",
+      "description": "<p>Um tipo de armadura que consiste em pequenos anéis de metal unidos em um padrão para formar uma malha.</p>",
+      "tags": "[{\"value\":\"armadura 1\"},{\"value\":\"vestida\"}]"
+    },
+    {
+      "id": "Leather Armor",
+      "name": "Armadura de Couro",
+      "description": "<p>Armadura rústica moldada com couro endurecido.</p>",
+      "tags": "[{\"value\":\"vestida\"},{\"value\":\"armadura 1\"}]"
+    },
+    {
+      "id": "Scale Mail",
+      "name": "Armadura de Escamas",
+      "tags": "[{\"value\":\"armadura 2\"},{\"value\":\"vestida\"},{\"value\":\"desengonçada\"}]"
+    },
+    {
+      "id": "Ostentatious Clothes",
+      "name": "Roupas Luxuosas",
+      "description": "<p>Estas roupas realmente lhe colocam em evidência.</p>",
+      "tags": "[{\"value\":\"vestida\"}]"
+    },
+    {
+      "id": "Hide Armor",
+      "name": "Peles",
+      "tags": "[{\"value\":\"armadura 1\"}]"
+    }
+  ]
+}

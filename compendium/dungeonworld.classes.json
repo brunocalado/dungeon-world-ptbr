@@ -1,0 +1,635 @@
+{
+  "label": "Classes",
+  "mapping": {
+    "description": "system.description",
+    "races": "system.races",
+    "alignments": "system.alignments",
+    "equipment": "system.equipment"
+  },
+  "entries": [
+    {
+      "id": "The Paladin",
+      "name": "O Paladino",
+      "description": " <p>O inferno os aguarda com uma eternidade de tormento em fogo, gelo ou o que quer que seja adequado aos pecados das multidões de condenados de Dungeon World. A única coisa que se interpõe entre as profundezas dessa terrível tortura e a salvação é você: um homem santo, uma máquina de guerra blindada, templário da Bondade e da Luz, certo? O Clérigo pode oferecer durante a noite suas preces aos deuses, que o escutarão do alto dos céus. O Guerreiro pode portar uma espada afiada em nome do “bem”, mas você sabe a verdade. Somente você. </p>\n<p>As mãos, os olhos, o doce golpe mortal dos deuses, isso é o que você é. Os dons da integridade e da virtude – e da justiça, e também da visão – são seus. Uma pureza de intenção da qual seus companheiros simplesmente não partilham. </p>\n<p>Então, guie esses tolos, Paladino. Agarre-se à sua causa sagrada e traga a salvação a este mundo maldito.</p>\n<p> Vae victis, não é mesmo?</p>",
+      "races": {
+        "0": {
+          "label": "Humano",
+          "description": "Quando fizer uma oração, pedindo à sua divindade que o guie, mesmo que por um momento, e perguntar “O que é maligno aqui?”, o MJ lhe responderá honestamente."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Ordeiro",
+          "description": "Negar misericórdia a um criminoso ou infiel."
+        },
+        "1": {
+          "label": "Bom",
+          "description": "Colocar-se em perigo para proteger alguém mais fraco."
+        }
+      },
+      "equipment": {
+        "0": {
+          "label": "Equipamento inicial",
+          "mode": "checkbox",
+          "items": [
+            "JyexgLvGxD4BkJnx",
+            "CZQUuNr5TlVEUWun",
+            "UCiBklwx0UIjYvLo"
+          ]
+        },
+        "1": {
+          "label": "Escolha sua arma",
+          "mode": "checkbox",
+          "items": [
+            "DXv8kUYZore0tCcX",
+            "ehDXlO0BtRCOB5pc",
+            "lrENUS4Uf0GLCJV1"
+          ]
+        },
+        "2": {
+          "label": "Escolha o equipamento",
+          "mode": "checkbox",
+          "items": [
+            "q5wKnsuuglfJUziT",
+            "JyexgLvGxD4BkJnx",
+            "6tJWuEaTKIcqi3NF"
+          ]
+        }
+      }
+    },
+    {
+      "id": "The Druid",
+      "name": "O Druida",
+      "description": "<p>Observe o que acontece ao redor da fogueira. O que o levou até essas pessoas que fedem a poeira e suor da cidade? Talvez seja uma espécie de bondade – você os protege como a mãe ursa cuida de seus filhotes? Seriam eles a sua matilha agora? Que irmãos e irmãs estranhos você possui. Independente de sua inspiração, eles certamente fracassariam sem seus sentidos aguçados e garras afiadas.</p>\n<p>Você pertence aos locais sagrados – nasceu do solo e usa as marcas dos espíritos em sua pele. Talvez tivesse outra vida antigamente, pode até mesmo ter sido um morador da cidade como eles, mas não mais. Você abandonou aquela sua forma estática. Ouça seus aliados rezando para seus deuses esculpidos em pedra ou polindo suas conchas de prata. Eles falam da glória que encontrarão quando retornarem àquela cidade pestilenta que você abandonou.</p>\n<p>Os deuses deles são crianças, e seu aço uma falsa proteção. Você trilha os antigos caminhos, e usa as peles da própria terra. Receberá sua parte do tesouro, mas será que um dia você será como eles? Só o tempo dirá. </p>",
+      "races": {
+        "0": {
+          "label": "Elfo",
+          "description": "A seiva das árvores antigas corre em seu corpo. Além de quaisquer outras ligações, a Grande Floresta é sempre considerada sua terra."
+        },
+        "1": {
+          "label": "Humano",
+          "description": "Assim como seu povo aprendeu a vincular os animais ao campo e à fazenda, você também se encontra vinculado a eles. Você sempre será capaz de assumir a forma de qualquer animal domesticado, além de suas opções normais."
+        },
+        "2": {
+          "label": "Halfling",
+          "description": "Você canta as canções restauradoras da primavera e do riacho. Sempre que montar acampamento, você e seus aliados curam +1d6."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Caótico",
+          "description": "Destruir um símbolo de civilização."
+        },
+        "1": {
+          "label": "Bom",
+          "description": "Ajudar alguma coisa ou alguém a crescer."
+        },
+        "2": {
+          "label": "Neutro",
+          "description": "Eliminar uma ameaça não natural."
+        }
+      },
+      "equipment": {
+        "0": {
+          "label": "Equipamento inicial",
+          "mode": "checkbox",
+          "items": [
+            "1YuCznJbmL9wFSjk"
+          ]},
+        "1": {
+          "label": "Escolha suas defesas",
+          "mode": "radio",
+          "items": [
+            "cDu06Rh4gX5j4zp3",
+            "lrENUS4Uf0GLCJV1"
+          ]},
+        "2": {
+          "label": "Escolha seu armamento",
+          "mode": "radio",
+          "items": [
+            "myKg4BUmN7LuBFtH",
+            "k34Q9JGTJw8Jy7j2",
+            "HMDjMlvhhHeh862d"
+          ]
+        },
+        "3": {
+          "label": "Escolha o equipamento",
+          "mode": "radio",
+          "items": [
+            "q5wKnsuuglfJUziT",
+            "lefMwyTNgvIYvxyX",
+            "Y2cRB9PQCsKxHK9a",
+            "Z9Rdwvvm388gQhfZ"
+          ]}
+      }
+    },
+    {
+      "id": "The Thief",
+      "name": "O Ladrão",
+      "description": "<p>Ouça os tolos, sentados ao redor da fogueira, vangloriando-se de seus feitos em uma ou outra batalha, e de como os deuses sorriem para seu alegre bando. Enquanto isso, você conta suas moedas e sorri para si próprio – esta sim é a emoção que se encontra acima de todas as outras, o segredo de Dungeon World que apenas você conhece: o lucro – enorme, obsceno e imoral.</p>\n<p>Seus companheiros vivem reclamando daqueles momentos nos quais você se esgueirou sozinho sem avisá-los, mas sem a sua presença, qual deles não teria sido dividido por uma guilhotina voadora ou envenenado até a morte por uma antiga armadilha de agulhas? Deixe-os choramingar. Quando você não estiver mais se esgueirando sob a terra com eles, com certeza fará um brinde em sua homenagem, observando seus heroicos túmulos.</p>\n<p>Claro que fará isso de dentro de seu castelo cheio de ouro, seu bandido! </p>",
+      "races": {
+        "0": {
+          "label": "Halfling",
+          "description": "Quando atacar com uma arma de longo alcance, cause dano +2."
+        },
+        "1": {
+          "label": "Humano",
+          "description": "Você é um profissional. Quando falar difícil ou discernir realidades com relação a atividades criminosas, receba +1."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Caótico",
+          "description": "Pular sobre o perigo sem um plano."
+        },
+        "1": {
+          "label": "Neutro",
+          "description": "Evitar ser detectado ou se infiltre um local."
+        },
+        "2": {
+          "label": "Mau",
+          "description": "Repassar o perigo ou a culpa para outra pessoa."
+        }
+      },
+      "equipment": {
+        "0": {
+          "label": "Equipamento inicial",
+          "mode": "checkbox",
+          "items": [
+            "JyexgLvGxD4BkJnx",
+            "RQAkyy2WCPKcGp0P",
+            "fYXLx7SefHMLGUPa"
+          ]
+        },
+        "1": {
+          "label": "Escolha seu armamento",
+          "mode": "checkbox",
+          "items": [
+            "A85LcjgoplkcAXAM",
+            "tpAmwO5AOTRnbH4r",
+            "g5VO671hvA5sW7h8"
+          ]
+        },
+        "2": {
+          "label": "Escolha uma arma de longo alcance",
+          "mode": "checkbox",
+          "items": [
+            "rFEy9cybbgs8DaZV",
+            "jhHUGS7TIeUla3na",
+            "89Z2Kb5dm9PoKVor"
+          ]
+        },
+        "3": {
+          "label": "Escolha o equipamento",
+          "mode": "radio",
+          "items": [
+            "q5wKnsuuglfJUziT",
+            "6tJWuEaTKIcqi3NF"
+          ]
+        }
+      }
+    },
+    {
+      "id": "The Ranger",
+      "name": "O Ranger",
+      "description": " <p>Será que algum desses ratos da cidade com os quais você viaja já ouviu o chamado do lobo, ou sentiu os ventos uivando nos desolados desertos do Leste? Algum deles já caçou sua presa com um arco e uma faca como você? É claro que não. E é por isso que eles precisam de sua ajuda.</p>\n<p>Guia. Caçador. Besta selvagem. Você é tudo isso e mais. O tempo passado nas imensidões ermas pode ter sido solitário até agora, mas o chamado de algo maior – pode denominá-lo de destino, se quiser – o reuniu a essas pessoas. Eles parecem corajosos, fortes e poderosos. Você, no entanto, conhece todos os segredos existentes nas lacunas, coisas que nenhum deles sabe ou compreende.</p>\n<p>Sem sua presença, eles estariam perdidos. Queime uma trilha através do sangue e da escuridão, andarilho.</p>",
+      "races": {
+        "0": {
+          "label": "Elfo",
+          "description": "Quando empreender uma jornada perigosa através de terras ermas, independente de qual seja seu papel, você sempre conseguirá um acerto como se tivesse rolado 10+ nos dados."
+        },
+        "1": {
+          "label": "Humano",
+          "description": "Quando preparar acampamento dentro de uma masmorra ou cidade, você não precisa consumir uma ração."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Caótico",
+          "description": "Libertar alguém de amarras literais ou metafóricas."
+        },
+        "1": {
+          "label": "Bom",
+          "description": "Colocar-se em perigo para combater uma ameaça sobrenatural."
+        },
+        "2": {
+          "label": "Neutro",
+          "description": "Ajudar um animal ou espírito da natureza."
+        }
+      },
+      "equipment": {
+        "0": {
+          "label": "Equipamento inicial",
+          "mode": "checkbox",
+          "items": [
+            "JyexgLvGxD4BkJnx",
+            "RQAkyy2WCPKcGp0P",
+            "89Z2Kb5dm9PoKVor"
+          ]
+        },
+        "1": {
+          "label": "Escolha seu armamento",
+          "mode": "checkbox",
+          "items": [
+            "NXAWEXKXDa5Yw4Qu",
+            "tpAmwO5AOTRnbH4r",
+            "HMDjMlvhhHeh862d"
+          ]
+        },
+        "2": {
+          "label": "Escolha o equipamento",
+          "mode": "checkbox",
+          "items": [
+            "q5wKnsuuglfJUziT",
+            "JyexgLvGxD4BkJnx",
+            "89Z2Kb5dm9PoKVor"
+          ]}
+      }
+    },
+    {
+      "id": "The Fighter",
+      "name": "O Guerreiro",
+      "description": "<p>É um trabalho ingrato – viver todos os dias pela sua armadura e habilidade com armas, mergulhando de cabeça no perigo. Ninguém tocará cornetas douradas em sua homenagem por ter recebido uma facada nas costelas por eles naquele bar em Bucksberg. Nenhum coro de anjos cantará sobre aquele dia que você os arrastou, ainda gritando, da beira dos Poços da Loucura. Nada disso.</p>\n<p>Esqueça-os.</p>\n<p>Você faz o que faz pela coragem e pela glória, pelos gritos da batalha e para sentir seu sangue ferver. Você é uma besta de ferro. Seus aliados podem carregar lâminas feitas de metal forjado, mas, Guerreiro, você é de aço. Mostre suas cicatrizes com orgulho enquanto seus companheiros de viagem, sentados ao redor de uma fogueira na selva, lamentam seus próprios ferimentos.</p>\n<p>Você é a muralha – deixe que todo o perigo se choque contra seu corpo até ser reduzido a pó. No final, apenas o Guerreiro restará de pé.</p>",
+      "races": {
+        "0": {
+          "label": "Anão",
+          "description": "Quando compartilhar uma bebida com alguém, você pode negociar com aquela pessoa usando CON no lugar de CAR."
+        },
+        "1": {
+          "label": "Elfo",
+          "description": "Escolha uma arma – você trata armas daquele tipo como se sempre possuíssem o rótulo precisa."
+        },
+        "2": {
+          "label": "Halfling",
+          "description": "Quando você desafiar o perigo e usar seu tamanho diminuto em sua vantagem, receba +1."
+        },
+        "3": {
+          "label": "Humano",
+          "description": "Uma vez por batalha, você pode rolar novamente um rolamento de dano (seu ou de outra pessoa)."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Bom",
+          "description": "Defender aqueles mais fracos que você."
+        },
+        "1": {
+          "label": "Neutro",
+          "description": "Derrotar um adversário à sua altura."
+        },
+        "2": {
+          "label": "Mau",
+          "description": "Matar um inimigo indefeso ou cercado."
+        }
+      },
+      "equipment": {
+        "0": {
+          "label": "Equipamento inicial",
+          "mode": "checkbox",
+          "items": [
+            "JyexgLvGxD4BkJnx",
+            "OJIrFGgbVe3wXlnD"
+          ]
+        },
+        "1": {
+          "label": "Escolha suas defesas",
+          "mode": "radio",
+          "items": [
+            "L8fAVUocoNzmt6fE",
+            "q5wKnsuuglfJUziT",
+            "CZQUuNr5TlVEUWun"
+          ]
+        },
+        "2": {
+          "label": "Escolha o equipamento",
+          "mode": "checkbox",
+          "items": [
+            "6tJWuEaTKIcqi3NF",
+            "lrENUS4Uf0GLCJV1",
+            "Z9Rdwvvm388gQhfZ",
+            "JyexgLvGxD4BkJnx",
+            "lefMwyTNgvIYvxyX"
+          ]}
+      }
+    },
+    {
+      "id": "The Barbarian",
+      "name": "O Bárbaro",
+      "description": " <p>Forasteiro. Você escuta os aldeões e camponeses cochichando de maneira nervosa por onde passa. Estranho. Mesmo seus companheiros de viagem, acostumados com suas histórias e modos distintos, não conseguem evitar olhar com assombro quando o veem se jogando aos urros contra seus inimigos, deliciando-se da batalha como um homem faminto em um banquete. Selvagem.</p>\n<p>Eles não entendem o apetite pela batalha, a fome de destruição e o desejo pela conquista. Deixe que desviem o olhar, enquanto rezam para seus deuses, se ajoelham frente a lordes e reis, e se debruçam sobre seus preciosos livros.</p>\n<p> Você sabe que as melhores coisas da vida são esmagar seus inimigos, vê-los fugir diante de sua presença e ouvir os lamentos de suas viúvas.</p>\n<p>Bárbaro.</p>",
+      "races": {
+        "0": {
+          "label": "Forasteiro",
+          "description": "Você pode ser um elfo, anão, halfling ou humano, mas seu povo não é dessas redondezas. No início de cada sessão, o MJ lhe perguntará algo a respeito de sua terra natal, por que você foi embora ou o que deixou para trás. Se responder, marque XP."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Neutro",
+          "description": "Ensinar a alguém os modos de seu povo."
+        },
+        "1": {
+          "label": "Caótico",
+          "description": "Se afastar de uma convenção do mundo civilizado."
+        }
+      },
+      "equipment": {
+        "0": {
+          "label": "Equipamento inicial",
+          "mode": "checkbox",
+          "items": [
+            "JyexgLvGxD4BkJnx",
+            "A85LcjgoplkcAXAM",
+            "1YuCznJbmL9wFSjk"
+          ]
+        },
+        "1": {
+          "label": "Escolha sua arma",
+          "mode": "radio",
+          "items": [
+            "VKMjLlDrAx3DqxRh",
+            "MdAnW8O6ayAP8pMT"
+          ]
+        },
+        "2": {
+          "label": "Escolha o equipamento",
+          "mode": "checkbox",
+          "items": [
+            "q5wKnsuuglfJUziT",
+            "JyexgLvGxD4BkJnx",
+            "L8fAVUocoNzmt6fE"
+          ]
+        }
+      }
+    },
+    {
+      "id": "The Immolator",
+      "name": "O Imolador",
+      "description": "<p>Algumas pessoas oram a seus deuses pedindo força, como tolos; outros, espertos demais para o próprio bem, lêem livros. Outros, ainda, treinam com suas espadas ou com a língua. Mas não você. De alguma maneira, por alguma razão, você encontrou poder de outra maneira, forjada no fogo e na dor. Você fez um sacrifício, e naquele local, lhe foram oferecidos poderes para além do alcance de meros mortais.</p>\n<p>E é tão, tão bom.</p>\n<p>Você é o curinga agora. A chama desencadeada, queimando com paixão e deixando a ruína em seu rastro. Todo mundo pode sentir também; seu fogo atiça o deles, enchendo seus novos companheiros de aventura com furor e iluminando a vida de cada caipira e donzela com que tiveram a sorte de cruzar seu caminho. Você nunca se sentiu tão vivo! E daí se houver problemas cercando-o em todas as direções; mais uma razão para viver a vida ao máximo, certo?</p>\n<p>Viva rápido, morra cedo, e tenha certeza que não é você que vai ter que ajuntar todos os pedaços.</p>",
+      "races": {
+        "0": {
+          "label": "Humano",
+          "description": "Quando montar acampamento próximo à uma grande fogueira, recupere todos os seus PVs."
+        },
+        "1": {
+          "label": "Salamandra",
+          "description": "Calor e Fogo não-mágicos, não podem te ferir."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Mau",
+          "description": "Sacrificar uma vítima despreparada às chamas."
+        },
+        "1": {
+          "label": "Caótico",
+          "description": "Propagar uma nova ideia perigosa."
+        },
+        "2": {
+          "label": "Neutro",
+          "description": "Trocar um sacrifício consente por um serviço."
+        }
+      },
+      "equipment": {
+        "0": {
+          "label": "Equipamento inicial",
+          "mode": "checkbox",
+          "items": [
+            "XVQlZSht2K5vp3te",
+            "q5wKnsuuglfJUziT",
+            "6tJWuEaTKIcqi3NF"
+          ],
+          "objects": [
+            {
+              "_id": "XVQlZSht2K5vp3te",
+              "name": "Símbolo",
+              "permission": {
+                "default": 0,
+                "Z8KGVPKcXF0jSV2e": 3
+              },
+              "type": "equipamento",
+              "data": {
+                "description": "<p>Um símbolo de seus sacrifícios passados. Descreva-o:</p>",
+                "quantity": 1,
+                "weight": 0,
+                "uses": 0,
+                "magic": false},
+              "img": "icons/svg/mystery-man.svg"}
+          ]
+        },
+        "1": {
+          "label": "Escolha o equipamento",
+          "mode": "checkbox",
+          "items": [
+            "JyexgLvGxD4BkJnx",
+            "6tJWuEaTKIcqi3NF"
+          ]}
+      }
+    },
+    {
+      "id": "The Bard",
+      "name": "O Bardo",
+      "description": "<p>Os poemas dizem que a vida de um aventureiro é cheia de caminhos abertos e de glória advinda da fortuna e do combate. Aquelas histórias contadas em tavernas cheias de fazendeiros com certeza têm algum fundo de verdade, certo? As canções capazes de inspirar tanto camponeses quanto a realeza – que acalmam as feras e incitam os homens ao frenesi – têm que vir de algum lugar.</p>\n<p>É aí que entra o Bardo. Você, com sua língua de seda e raciocínio rápido, contador de histórias e cantador de canções. Qualquer simples menestrel é capaz de recontar um fato, mas apenas um verdadeiro Bardo é capaz de vivê-lo. Afivele suas botas, nobre orador. Afie aquela adaga oculta e atenda ao chamado. Alguém precisa estar lá, lutando lado a lado com os capangas, mercenários, e futuros heróis. Quem seria melhor do que você para escrever as histórias de seu próprio heroísmo?</p>\n<p>Ninguém. Siga em frente.</p>",
+      "races": {
+        "0": {
+          "label": "Elfo",
+          "description": "Quando entrar em um local importante (decisão do jogador), você pode pedir ao MJ que lhe conte um fato qualquer a respeito da história daquele lugar."
+        },
+        "1": {
+          "label": "Humano",
+          "description": "Quando entrar pela primeira vez em um local civilizado, alguém que respeita os costumes de hospitalidade aos menestréis irá recebê-lo como seu convidado."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Bom",
+          "description": "Executar sua arte para ajudar alguém."
+        },
+        "1": {
+          "label": "Neutro",
+          "description": "Evitar um conflito ou desfaça uma situação tensa."
+        },
+        "2": {
+          "label": "Caótico",
+          "description": "Estimular outros a realizarem uma ação decisiva que seja significativa e mal planejada."
+        }
+      },
+      "equipment": {
+        "0": {
+          "label": "Você também começa com todos esses:",
+          "mode": "checkbox",
+          "items": [
+            "JyexgLvGxD4BkJnx"
+          ]
+        },
+        "1": {
+          "label": "Escolha um. Todos tem peso 0 para você.",
+          "mode": "radio",
+          "items": [
+            "t0FCRrKNif8IVLdZ",
+            "Pg5OKCxvZLZIlUqZ",
+            "bIDVbZVEJSWPcBi1",
+            "IsyhcXjdMpUzK3r5",
+            "aXVYHRjX2eoRTtCQ",
+            "lG9aDTZcWfYBHCjj"
+          ]
+        },
+        "2": {
+          "label": "Escolha suas vestimentas",
+          "mode": "radio",
+          "items": [
+            "vzJOkcsSEpr9Oty7",
+            "bBVI0dkUMkXEr9Xh",
+            "RQAkyy2WCPKcGp0P",
+            "O99liKvmJL9atK11"
+          ]
+        },
+        "3": {
+          "label": "Escolha seu armamento",
+          "mode": "checkbox",
+          "items": [
+            "gNJrE7FgIg8cAnaI",
+            "jhHUGS7TIeUla3na",
+            "89Z2Kb5dm9PoKVor",
+            "tpAmwO5AOTRnbH4r"
+          ]
+        },
+        "4": {
+          "label": "Escolha um",
+          "mode": "radio",
+          "items": [
+            "q5wKnsuuglfJUziT",
+            "JdUEo8pv3vbwOpMh",
+            "Y2cRB9PQCsKxHK9a"
+          ]
+        }
+      }
+    },
+    {
+      "id": "The Wizard",
+      "name": "O Mago",
+      "description": "<p>Dungeon World tem regras, mas não as leis dos homens ou os caprichos de algum pequeno tirano. Regras maiores e melhores. Se um objeto for largado, ele cairá. Não é possível criar algo do nada. Os mortos permanecem mortos, não é isso mesmo?</p>\n<p>Ah, as coisas que dizemos a nós mesmos para tentar tornar suportáveis as noites longas e escuras.</p>\n<p>Você passou longas noites debruçado sobre aqueles tomos antigos, realizando experimentos que quase o enlouqueceram e invocações malfeitas que colocaram em perigo sua própria alma. E qual o objetivo de tudo isso? Poder, é claro. O que mais importa? Não apenas o poder de um rei ou o de um país, mas o poder de fazer o sangue de um homem ferver em suas veias, ou de chamar um trovão dos céus e fazer a própria terra tremer. De desfazer todas as leis que o mundo considera tão importantes.</p>\n<p>Deixe que fiquem lhe observando pelos cantos dos olhos, chamando-o de “bruxo” ou “diabolista”. Será que algum deles é capaz de lançar bolas de fogo de seus próprios olhos?</p>\n<p>É. Achava mesmo que não</p>",
+      "races": {
+        "0": {
+          "label": "Elfo",
+          "description": "A magia lhe é tão natural quanto o ato de respirar. Detectar Magia é considerada um truque para você."
+        },
+        "1": {
+          "label": "Humano",
+          "description": "Escolha um feitiço de clérigo. Você pode conjurá-lo como se fosse um feitiço de mago."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Bom",
+          "description": "Usar magia para ajudar diretamente outra pessoa."
+        },
+        "1": {
+          "label": "Neutro",
+          "description": "Descobrir informações a respeito de um enigma ou mistério mágico.\nMAU\nUsar"
+        },
+        "2": {
+          "label": "Mau",
+          "description": "Usar magia para causar medo e terror."
+        }
+      },
+      "equipment": {
+        "0": {
+          "label": "Equipamento inicial",
+          "mode": "checkbox",
+          "items": [
+            "q0OQPBduCalAA99o",
+            "JyexgLvGxD4BkJnx"
+          ]
+        },
+        "1": {
+          "label": "Escolha suas defesas",
+          "mode": "checkbox",
+          "items": [
+            "6tJWuEaTKIcqi3NF",
+            "RQAkyy2WCPKcGp0P",
+            "UOqXYWbiPPBq1mWd"
+          ]
+        },
+        "2": {
+          "label": "Escolha sua arma",
+          "mode": "radio",
+          "items": [
+            "A85LcjgoplkcAXAM",
+            "k34Q9JGTJw8Jy7j2"
+          ]
+        },
+        "3": {
+          "label": "Escolha o equipamento",
+          "mode": "radio",
+          "items": [
+            "6tJWuEaTKIcqi3NF",
+            "Z9Rdwvvm388gQhfZ"
+          ]}
+      }
+    },
+    {
+      "id": "The Cleric",
+      "name": "O Clérigo",
+      "description": "<p>As terras de Dungeon World são um caos abandonado pelos deuses. Elas estão infestadas por mortos vivos, bestas de todos os tipos, e por vastas áreas anormais localizadas entre os locais civilizados – aqueles abençoados pela presença de templos. O mundo lá fora é um lugar sem divindades. E é exatamente por isso que ele precisa de você.</p>\n<p>Levar a glória de seu deus até os descrentes não é apenas sua natureza – é o seu chamado. Cabe a você convertê-los com sua espada, maça e magia. É preciso dilacerar o coração ignorante das terras selvagens e plantar nele as sementes da fé. Alguns dizem que o melhor lugar para manter seus deuses é junto ao seu coração, mas você sabe que isso é besteira. Deus vive na lâmina de uma espada.</p>\n<p>Mostre ao mundo quem é o Senhor. </p>",
+      "races": {
+        "0": {
+          "label": "Anão",
+          "description": "Você é um com a pedra. Quando comungar, receba como uma oração uma versão especial de Palavras dos Silenciosos que só funciona com pedras."
+        },
+        "1": {
+          "label": "Humano",
+          "description": "Sua fé é distinta. Escolha um feitiço de mago: você pode recebê-lo e conjurá-lo como se fosse um feitiço de clérigo."
+        }
+      },
+      "alignments": {
+        "0": {
+          "label": "Bom",
+          "description": "Colocar-se em perigo para curar outra pessoa."
+        },
+        "1": {
+          "label": "Ordeiro",
+          "description": "Colocar-se em perigo seguindo os preceitos de sua igreja ou deus."
+        },
+        "2": {
+          "label": "Mau",
+          "description": "Prejudicar outra pessoa para provar a superioridade de sua igreja ou deus."
+        }
+      },
+      "equipment": {
+        "0": {
+          "label": "Equipamento inicial",
+          "mode": "checkbox",
+          "items": [
+            "Iy4Iw8nsJXNIz8bG",
+            "JyexgLvGxD4BkJnx"
+          ]},
+        "1": {
+          "label": "Escolha suas defesas",
+          "mode": "radio",
+          "items": [
+            "L8fAVUocoNzmt6fE",
+            "lrENUS4Uf0GLCJV1"
+          ]},
+        "2": {
+          "label": "Escolha seu armamento",
+          "mode": "checkbox",
+          "items": [
+            "5W6GPZSCABqUSclP",
+            "hLhyon50Ukp2YCIc",
+            "k34Q9JGTJw8Jy7j2",
+            "JdUEo8pv3vbwOpMh"
+          ]
+        },
+        "3": {
+          "label": "Escolha o equipamento",
+          "mode": "checkbox",
+          "items": [
+            "JyexgLvGxD4BkJnx",
+            "q5wKnsuuglfJUziT",
+            "6tJWuEaTKIcqi3NF"
+          ]
+        }
+      }
+    }
+  ]
+}
