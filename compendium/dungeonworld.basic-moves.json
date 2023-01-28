@@ -1,18 +1,30 @@
 {
+  
   "label": "Movimentos Básicos",
   "mapping": {
-    "description": "system.description"
+    "description": "system.description",
+    "failure": "system.moveResults.failure.value",
+    "partial": "system.moveResults.partial.value",
+    "success": "system.moveResults.success.value",
+    "choices": "system.choices"
   },
+  
   "entries": [
     {
       "id": "Carouse",
       "name": "Farrear",
-      "description": "<p>Quando <strong>retornar triunfante e fizer uma grande festa</strong>, gaste 100 moedas e role+1 para cada 100 moedas extras gastas. Com 10+, escolha 3. Com 7-9, escolha 1. Com um 6-, ainda escolha 1, mas as coisas vão sair totalmente de controle (o MJ dirá como).</p>\n<p>• Torne-se amigo de um PNJ útil;</p>\n<p>• Você ouve rumores a respeito de uma boa oportunidade;</p>\n<p>• Você adquire informações úteis;</p>\n<p>• Você não é preso, enfeitiçado ou enganado</p>"
+      "description": "<p>Quando <strong>retornar triunfante e fizer uma grande festa</strong>, gaste 100 moedas e role+1 para cada 100 moedas extras gastas. Com 10+, escolha 3. Com 7-9, escolha 1. Com um 6-, ainda escolha 1, mas as coisas vão sair totalmente de controle (o MJ dirá como).</p>\n<p>• Torne-se amigo de um PNJ útil;</p>\n<p>• Você ouve rumores a respeito de uma boa oportunidade;</p>\n<p>• Você adquire informações úteis;</p>\n<p>• Você não é preso, enfeitiçado ou enganado</p>",
+      "failure": "<p>Com um 6-, ainda escolha 1, mas as coisas vão sair totalmente de controle (o MJ dirá como).</p>",
+      "success": "<p>Com 10+, escolha 3.</p>",
+      "partial": "<p>Com 7-9, escolha 1.</p>",
+      "choices": "<ul><li>Torne-se amigo de um PNJ útil;</li><li>Você ouve rumores a respeito de uma boa oportunidade;</li><li>Você adquire informações úteis;</li><li>Você não é preso, enfeitiçado ou enganado</li></ul>"
     },
     {
       "id": "Defy Danger",
       "name": "Desafiar o Perigo",
-      "description": "<p>Quando <strong>agir apesar de qualquer perigo iminente ou sofrer alguma calamidade</strong>, diga como lidará com a situação e role. Se o fizer...</p>\n<p>• … à força, +FOR;</p>\n<p>• … saindo do caminho ou agindo rápido, +DES;</p>\n<p>• … resistindo, +CON;</p>\n<p>• … com pensamento rápido, +INT;</p>\n<p>• … pela fortitude mental, +SAB;</p>\n<p>• … usando charme e trato social, +CAR.</p>\n<p>Com 10+, realize o que pretendia sem ser afetado pela ameaça. Com 7-9, você tropeça, hesita, ou se contorce: o MJ lhe oferecerá um resultado pior, uma barganha difícil ou uma escolha desagradável.</p>"
+      "description": "<p>Quando <strong>agir apesar de qualquer perigo iminente ou sofrer alguma calamidade</strong>, diga como lidará com a situação e role. Se o fizer...</p>\n<p>• … à força, +FOR;</p>\n<p>• … saindo do caminho ou agindo rápido, +DES;</p>\n<p>• … resistindo, +CON;</p>\n<p>• … com pensamento rápido, +INT;</p>\n<p>• … pela fortitude mental, +SAB;</p>\n<p>• … usando charme e trato social, +CAR.</p>\n<p>Com 10+, realize o que pretendia sem ser afetado pela ameaça. Com 7-9, você tropeça, hesita, ou se contorce: o MJ lhe oferecerá um resultado pior, uma barganha difícil ou uma escolha desagradável.</p>",
+      "partial": "<p>Com 7-9, você tropeça, hesita, ou se contorce: o MJ lhe oferecerá um resultado pior, uma barganha difícil ou uma escolha desagradável.</p>",
+      "success": "<p>Com 10+, realize o que pretendia sem ser afetado pela ameaça.</p>"
     },
     {
       "id": "Recruit",
