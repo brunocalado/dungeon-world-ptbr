@@ -2,30 +2,28 @@
   "id": "dungeon-world-ptbr",
   "title": "Dungeon World - Tradução para Português (Brasil)",
   "description": "<p>Adiciona o idioma Português (Brasil) para o sistema de jogo Dungeon World.</p><p>Obs. Esse módulo traduz somente os termos relacionados ao sistema Dungeon World. Esse módulo não traduz outras partes do FoundryVTT, como a interface principal.</p>",
-  
   "version": "2.0.1",
-  
   "compatibility": {
     "minimum": "10",
     "verified": "10"
   },
-
   "relationships": {
     "systems": [
       {
         "id": "dungeonworld",
-        "type": "system"
+        "type": "system",
+        "compatibility": {}
       }
     ],
     "requires": [
       {
         "id": "babele",
         "type": "module",
-        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json"
+        "manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+        "compatibility": {}
       }
     ]
   },
-  
   "authors": [
     {
       "name": "Mestre Digital",
@@ -33,24 +31,22 @@
       "flags": {}
     },
     {
-      "name": "FranzWarm"
-    }    
+      "name": "FranzWarm",
+      "flags": {}
+    }
   ],
-  
   "esmodules": [
     "babele.js"
   ],
-  
   "languages": [
     {
       "lang": "pt-BR",
       "name": "Português (Brasil)",
-      "path": "pt-BR.json"
+      "path": "pt-BR.json",
+      "flags": {}
     }
   ],
-  
   "url": "https://github.com/brunocalado/dungeon-world-ptbr",
-  "manifest": "https://raw.githubusercontent.com/brunocalado/dungeon-world-ptbr/main/module.json",  
-  "download": "https://codeload.github.com/brunocalado/dungeon-world-ptbr/zip/main"   
-  
+  "manifest": "https://raw.githubusercontent.com/brunocalado/dungeon-world-ptbr/main/module.json",
+  "download": "https://codeload.github.com/brunocalado/dungeon-world-ptbr/zip/main"
 }
