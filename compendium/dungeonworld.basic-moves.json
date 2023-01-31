@@ -34,12 +34,16 @@
     {
       "id": "Supply",
       "name": "Abastecer",
-      "description": "<p>Quando <strong>for comprar alguma coisa com ouro</strong>, caso seja algo facilmente disponível no local onde você se encontra, compre a preço de mercado. Se for algo especial, além do que está normalmente disponível, ou não mundano, role+CAR. Com 10+ você encontra o que está procurando a um preço justo. Com 7-9, você precisa pagar mais que o necessário, ou se contentar com algo que não é exatamente o que está procurando, mas quase. O MJ lhe dirá quais são suas opções.</p>"
+      "description": "<p>Quando <strong>for comprar alguma coisa com ouro</strong>, caso seja algo facilmente disponível no local onde você se encontra, compre a preço de mercado. Se for algo especial, além do que está normalmente disponível, ou não mundano, role+CAR. Com 10+ você encontra o que está procurando a um preço justo. Com 7-9, você precisa pagar mais que o necessário, ou se contentar com algo que não é exatamente o que está procurando, mas quase. O MJ lhe dirá quais são suas opções.</p>",
+      "success": "<p>Com 10+ você encontra o que está procurando a um preço justo.</p>",
+      "partial": "<p>Com 7-9, você precisa pagar mais que o necessário, ou se contentar com algo que não é exatamente o que está procurando, mas quase. O MJ lhe dirá quais são suas opções.</p>"      
     },
     {
       "id": "Outstanding Warrants",
       "name": "Mandatos Pendentes",
-      "description": "<p>Quando <strong>retornar a um local civilizado no qual tenha causado problemas anteriormente</strong>, role+CAR. Com , todos já ouviram falar de seus atos e você é facilmente reconhecido. Com 10+, o mesmo acontece, porém o MJ escolhe uma complicação:</p>\n<p>• O xerife local tem um mandado para sua prisão;</p>\n<p>• Alguém colocou um preço em sua cabeça;</p>\n<p>• Alguém importante para você está em uma situação difícil como resultado de suas ações.</p>"
+      "description": "<p>Quando retornar a um local civilizado no qual tenha causado problemas anteriormente, role+CAR. Com 10, todos já ouviram falar de seus atos e você é facilmente reconhecido.</p><p>Com 7-9, o mesmo acontece, porém o MJ escolhe uma complicação:</p><ul><li>O xerife local tem um mandado para sua prisão;</li><li>Alguém colocou um preço em sua cabeça;</li><li>Alguém importante para você está em uma situação difícil como resultado de suas ações.</li></ul>",
+      "success": "<p>Com 10, todos já ouviram falar de seus atos e você é facilmente reconhecido.</p>",
+      "partial": "<p>Com 7-9, o mesmo acontece, porém o MJ escolhe uma complicação:</p><ul><li>O xerife local tem um mandado para sua prisão;</li><li>Alguém colocou um preço em sua cabeça;</li><li>Alguém importante para você está em uma situação difícil como resultado de suas ações.</li></ul>"
     },
     {
       "id": "Make Camp",
@@ -49,12 +53,17 @@
     {
       "id": "Last Breath",
       "name": "Último Suspiro",
-      "description": "<p>Quando estiver <strong>morrendo</strong>, vislumbre o que existe além dos Portões Negros do Reino da Morte (o MJ lhe fará uma descrição), e depois role (simplesmente role, sem +Nada – a Morte não liga para o quão durão ou legal você é). Com 10+ você engana a morte – continua em uma situação difícil, mas não estará morto. Com 7-9 a própria Morte lhe oferecerá uma barganha – aceite-a para se estabilizar, ou recuse-a e atravesse os Portões Negros para encontrar o que quer que o destino lhe tenha reservado. Com 6-, seu destino estará selado. Você foi marcado como propriedade da Morte e irá cruzar seus limites logo. O MJ lhe dirá quando.</p>"
+      "description": "<p>Quando estiver <strong>morrendo</strong>, vislumbre o que existe além dos Portões Negros do Reino da Morte (o MJ lhe fará uma descrição), e depois role (simplesmente role, sem +Nada – a Morte não liga para o quão durão ou legal você é). Com 10+ você engana a morte – continua em uma situação difícil, mas não estará morto. Com 7-9 a própria Morte lhe oferecerá uma barganha – aceite-a para se estabilizar, ou recuse-a e atravesse os Portões Negros para encontrar o que quer que o destino lhe tenha reservado. Com 6-, seu destino estará selado. Você foi marcado como propriedade da Morte e irá cruzar seus limites logo. O MJ lhe dirá quando.</p>",
+      "failure": "<p>Com 6-, seu destino estará selado. Você foi marcado como propriedade da Morte e irá cruzar seus limites logo. O MJ lhe dirá quando.</p>",
+      "success": "<p>Com 10+ você engana a morte – continua em uma situação difícil, mas não estará morto.</p>",
+      "partial": "<p>Com 7-9 a própria Morte lhe oferecerá uma barganha – aceite-a para se estabilizar, ou recuse-a e atravesse os Portões Negros para encontrar o que quer que o destino lhe tenha reservado.</p>"
     },
     {
       "id": "Aid or Interfere",
       "name": "Ajudar ou Interferir",
-      "description": "<p>Quando <strong>quiser ajudar ou atrapalhar alguém</strong>, role+Vínculo que possua com essa pessoa. Com 10+, aquele personagem recebe +1 ou -2, à sua escolha, em sua rolagem. Com 7-9, os modificadores ainda são aplicados, mas você também se expõe ao perigo, retribuição, ou custo de sua ação.</p>"
+      "description": "<p>Quando <strong>quiser ajudar ou atrapalhar alguém</strong>, role+Vínculo que possua com essa pessoa. Com 10+, aquele personagem recebe +1 ou -2, à sua escolha, em sua rolagem. Com 7-9, os modificadores ainda são aplicados, mas você também se expõe ao perigo, retribuição, ou custo de sua ação.</p>",
+      "success": "<p>Com 10+, aquele personagem recebe +1 ou -2, à sua escolha, em sua rolagem.</p>",
+      "partial": "<p>Com 7-9, os modificadores ainda são aplicados, mas você também se expõe ao perigo, retribuição, ou custo de sua ação.</p>"            
     },
     {
       "id": "Take Watch",
@@ -64,7 +73,9 @@
     {
       "id": "Hack & Slash",
       "name": "Matar e Pilhar",
-      "description": "<p>Quando <strong>atacar um adversário em combate corpo a corpo</strong>, role+FOR. Com 10+, cause dano ao adversário e evite seu ataque. Opcionalmente, você pode causar +1d6 de dano, expondo-se ao contra ataque. Com 7-9, cause dano ao adversário, e ele fará um ataque contra você.</p>"
+      "description": "<p>Quando <strong>atacar um adversário em combate corpo a corpo</strong>, role+FOR. Com 10+, cause dano ao adversário e evite seu ataque. Opcionalmente, você pode causar +[[/r 1d6]] de dano, expondo-se ao contra ataque. Com 7-9, cause dano ao adversário, e ele fará um ataque contra você.</p>",
+      "success": "<p>Com 10+, cause dano ao adversário e evite seu ataque. Opcionalmente, você pode causar +[[/r 1d6]] de dano, expondo-se ao contra ataque.</p>",
+      "partial": "<p>Com 7-9, cause dano ao adversário, e ele fará um ataque contra você.</p>"     
     },
     {
       "id": "Encumbrance",
@@ -74,27 +85,40 @@
     {
       "id": "Discern Realities",
       "name": "Discernir Realidades",
-      "description": "<p>Quando <strong>inspecionar cuidadosamente uma situação ou pessoa</strong>, role+SAB. Com 10+ faça ao MJ 3 das perguntas listadas abaixo. Com um 7-9, faça 1. De qualquer forma, receba +1 adiante quando agir de acordo com as respostas.</p>\n<p>• O que aconteceu aqui recentemente?</p>\n<p>• O que está para acontecer aqui agora?</p>\n<p>• O que eu deveria procurar por aqui?</p>\n<p>• O que eu considero útil ou valioso aqui?</p>\n<p>• Quem realmente está no controle aqui?</p>\n<p>• O que não é realmente o que parece aqui?</p>"
+      "description": "<p>Quando <strong>inspecionar cuidadosamente uma situação ou pessoa</strong>, role+SAB. Com 10+ faça ao MJ 3 das perguntas listadas abaixo. Com um 7-9, faça 1. De qualquer forma, receba +1 adiante quando agir de acordo com as respostas.</p>\n<p>• O que aconteceu aqui recentemente?</p>\n<p>• O que está para acontecer aqui agora?</p>\n<p>• O que eu deveria procurar por aqui?</p>\n<ul><li>O que aconteceu aqui recentemente?</li><li>O que está para acontecer aqui agora?</li><li>O que eu deveria procurar por aqui?</li><li>O que eu considero útil ou valioso aqui?</li><li>Quem realmente está no controle aqui?</li><li>O que não é realmente o que parece aqui?</li></ul>",
+      "success": "<p>Com 10+ faça ao MJ 3 das perguntas listadas abaixo. De qualquer forma, receba +1 adiante quando agir de acordo com as respostas.</p>",
+      "partial": "<p>Com um 7-9, faça 1. De qualquer forma, receba +1 adiante quando agir de acordo com as respostas.</p>",
+      "choices": "<ul><li>O que aconteceu aqui recentemente?</li><li>O que está para acontecer aqui agora?</li><li>O que eu deveria procurar por aqui?</li><li>O que eu considero útil ou valioso aqui?</li><li>Quem realmente está no controle aqui?</li><li>O que não é realmente o que parece aqui?</li></ul>"      
     },
     {
       "id": "Undertake A Perilous Journey",
       "name": "Empreender uma Jornada Perigosa",
-      "description": "<p>Quando <strong>viajar por um território hostil</strong>, escolha um membro do grupo para ser o desbravador, outro para ser o batedor, e outro para ser o contramestre. Cada personagem rola+SAB. Com 10+:</p>\n<p>• o contramestre reduz a quantidade de rações necessárias em 1;</p>\n<p>• o desbravador reduz a quantidade de tempo necessária para alcançar o destino (o MJ dirá o quanto);</p>\n<p>• o batedor vai notar qualquer perigo rápido o bastante para que vocês obtenham vantagem.</p>\n<p>Com 7-9, cada personagem desempenhará seu papel como esperado: a quantidade normal de rações será consumida, a jornada demorará o tempo esperado, e ninguém consegue surpreender o grupo, mas ninguém também será surpreendido.</p>"
+      "description": "<p>Quando <strong>viajar por um território hostil</strong>, escolha um membro do grupo para ser o desbravador, outro para ser o batedor, e outro para ser o contramestre. Cada personagem rola+SAB. Com 10+:</p>\n<p>• o contramestre reduz a quantidade de rações necessárias em 1;</p>\n<p>• o desbravador reduz a quantidade de tempo necessária para alcançar o destino (o MJ dirá o quanto);</p>\n<p>• o batedor vai notar qualquer perigo rápido o bastante para que vocês obtenham vantagem.</p>\n<p>Com 7-9, cada personagem desempenhará seu papel como esperado: a quantidade normal de rações será consumida, a jornada demorará o tempo esperado, e ninguém consegue surpreender o grupo, mas ninguém também será surpreendido.</p>",
+      "success": "<p>Com 10+:</p>\n<ul><li>o contramestre reduz a quantidade de rações necessárias em 1;</li><li>o desbravador reduz a quantidade de tempo necessária para alcançar o destino (o MJ dirá o quanto);</li><li>o batedor vai notar qualquer perigo rápido o bastante para que vocês obtenham vantagem.</li></ul>",
+      "partial": "<p>Com 7-9, cada personagem desempenhará seu papel como esperado: a quantidade normal de rações será consumida, a jornada demorará o tempo esperado, e ninguém consegue surpreender o grupo, mas ninguém também será surpreendido.</p>"
     },
     {
       "id": "Parley",
       "name": "Negociar",
-      "description": "<p>Quando <strong>possuir alguma influência sobre personagens do MJ e quiser manipulá-los</strong>, role+CAR. Influência quer dizer algo de que eles precisem ou queiram. Com 10+, eles farão o que você pedir, caso você primeiro garanta lhe conceder o que eles pedirem. Com 7-9, eles farão o que você pede, mas exigirão alguma garantia concreta e imediata de sua promessa.</p>"
+      "description": "<p>Quando <strong>possuir alguma influência sobre personagens do MJ e quiser manipulá-los</strong>, role+CAR. Influência quer dizer algo de que eles precisem ou queiram. Com 10+, eles farão o que você pedir, caso você primeiro garanta lhe conceder o que eles pedirem. Com 7-9, eles farão o que você pede, mas exigirão alguma garantia concreta e imediata de sua promessa.</p>",
+      "success": "<p>Com 10+, eles farão o que você pedir, caso você primeiro garanta lhe conceder o que eles pedirem.</p>",
+      "partial": "<p>Com 7-9, eles farão o que você pede, mas exigirão alguma garantia concreta e imediata de sua promessa.</p>"
     },
     {
       "id": "Defend",
       "name": "Defender",
-      "description": "<p>Quando <strong>se posicionar para defender uma pessoa, objeto ou lugar</strong> sob ataque, role+CON. Com 10+, domínio 3. Com 7-9, domínio 1. Enquanto permanecer na defensiva, sempre que você ou aquilo que estiver defendendo sofrer um ataque, gaste domínio para escolher uma das opções abaixo, na razão de 1 ponto de domínio por opção:</p>\n<p>• Redirecione um ataque realizado contra a pessoa, objeto ou lugar sob sua proteção para você;</p>\n<p>• Reduza o efeito ou dano do ataque pela metade;</p>\n<p>• Abra as defesas do atacante, oferecendo a um aliado +1 adiante contra ele;</p>\n<p>• Cause ao atacante uma quantidade de dano igual ao seu nível.</p>"
+      "description": "<p>Quando <strong>se posicionar para defender uma pessoa, objeto ou lugar</strong> sob ataque, role+CON. Com 10+, domínio 3. Com 7-9, domínio 1. Enquanto permanecer na defensiva, sempre que você ou aquilo que estiver defendendo sofrer um ataque, gaste domínio para escolher uma das opções abaixo, na razão de 1 ponto de domínio por opção:</p>\n<ul><li>Redirecione um ataque realizado contra a pessoa, objeto ou lugar sob sua proteção para você;</li><li>Reduza o efeito ou dano do ataque pela metade;</li><li>Abra as defesas do atacante, oferecendo a um aliado +1 adiante contra ele;</li><li>Cause ao atacante uma quantidade de dano igual ao seu nível.</li></ul>",
+      "failure": "<p>Com um 6-, ainda escolha 1, mas as coisas vão sair totalmente de controle (o MJ dirá como).</p>",
+      "success": "<p>Com 10+, escolha 3.</p>",
+      "partial": "<p>Com 7-9, escolha 1.</p>",
+      "choices": "<ul><li>Redirecione um ataque realizado contra a pessoa, objeto ou lugar sob sua proteção para você;</li><li>Reduza o efeito ou dano do ataque pela metade;</li><li>Abra as defesas do atacante, oferecendo a um aliado +1 adiante contra ele;</li><li>Cause ao atacante uma quantidade de dano igual ao seu nível.</li></ul>"      
     },
     {
       "id": "Volley",
       "name": "Disparar",
-      "description": "<p>Quando <strong>mirar uma arma e dispará-la contra um adversário à distância</strong>, role+DES. Com 10+, você conseguiu um tiro preciso - cause seu dano. Com 7-9, escolha um (cause dano independentemente da escolha):</p>\n<p>• Você é forçado a se mover para conseguir uma linha de tiro, colocando-se em perigo conforme escolha do MJ;</p>\n<p>• Você é forçado a disparar de qualquer jeito: -1d6 de dano;</p>\n<p>• Você é forçado a disparar várias vezes, reduzindo sua munição em 1.</p>"
+      "description": "<p>Quando <strong>mirar uma arma e dispará-la contra um adversário à distância</strong>, role+DES. Com 10+, você conseguiu um tiro preciso - cause seu dano. Com 7-9, escolha um (cause dano independentemente da escolha):</p>\n<p>• Você é forçado a se mover para conseguir uma linha de tiro, colocando-se em perigo conforme escolha do MJ;</p>\n<p>• Você é forçado a disparar de qualquer jeito: -1d6 de dano;</p>\n<p>• Você é forçado a disparar várias vezes, reduzindo sua munição em 1.</p>",
+      "partial": "<p>Com 7-9, escolha um (cause dano independentemente da escolha):</p><ul><li>Você é forçado a se mover para conseguir uma linha de tiro, colocando-se em perigo conforme escolha do MJ;</li><li>Você é forçado a disparar de qualquer jeito: -1d6 de dano;</li><li>Você é forçado a disparar várias vezes, reduzindo sua munição em 1.</li></ul>",
+      "success": "<p>Com 10+, você conseguiu um tiro preciso - cause seu dano.</p>"
     },
     {
       "id": "Level Up",
@@ -109,7 +133,9 @@
     {
       "id": "Spout Lore",
       "name": "Falar Difícil",
-      "description": "<p>Quando <strong>consultar seu conhecimento acumulado a respeito de alguma coisa</strong>, role+INT. Com 10+ o MJ lhe dirá alguma coisa interessante e útil a respeito do assunto. Com 7-9 o MJ lhe dirá apenas alguma coisa interessante, e caberá a você torná-la útil. O MJ pode lhe perguntar “Como você sabia disso?”. Diga a verdade!</p>"
+      "description": "<p>Quando <strong>consultar seu conhecimento acumulado a respeito de alguma coisa</strong>, role+INT. Com 10+ o MJ lhe dirá alguma coisa interessante e útil a respeito do assunto. Com 7-9 o MJ lhe dirá apenas alguma coisa interessante, e caberá a você torná-la útil. O MJ pode lhe perguntar “Como você sabia disso?”. Diga a verdade!</p>",
+      "success": "<p>Com 10+ o MJ lhe dirá alguma coisa interessante e útil a respeito do assunto.</p>",
+      "partial": "<p>Com 7-9 o MJ lhe dirá apenas alguma coisa interessante, e caberá a você torná-la útil. O MJ pode lhe perguntar “Como você sabia disso?”. Diga a verdade!</p>"
     },
     {
       "id": "Bolster",

@@ -1,3 +1,6 @@
+# 2.0.2
+- mais tradução
+
 # 2.0.1
 - mappings para move basico
 
