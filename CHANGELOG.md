@@ -1,3 +1,6 @@
+# 2.0.4
+- melhorias
+
 # 2.0.2
 - mais tradução
 

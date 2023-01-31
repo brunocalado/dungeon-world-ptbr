@@ -246,9 +246,9 @@
   "DW.Dialog.askTitle": "Escolha um Atributo",
   "DW.Dialog.askContent": "Choose a stat for this <strong>{name}</strong> move.",
   "DW.Dialog.bondTitle": "Coloque o modificador",
-  "DW.Dialog.bondContent": "Enter a bonus for the bond or modifier for this <strong>{name}</strong> move.",
+  "DW.Dialog.bondContent": "Entre o bônus do vínculo ou modificador para o movimento (<strong>{name}</strong>). ",
   "DW.Notifications.noClassWarning": "You must choose a valid class before you can level up.",
-  "DW.Scrolling.armorReduced": "{reduced} Armor applied",
-  "DW.Scrolling.armorPiercing": "{piercing} Armor ignored"  
+  "DW.Scrolling.armorReduced": "{reduced} de Armadura Aplicado",
+  "DW.Scrolling.armorPiercing": "{piercing} de Armadura Ignorado"  
   
 }
