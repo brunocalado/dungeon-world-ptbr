@@ -1,6 +1,19 @@
 # Dungeon World - Tradução para o Português (Brasil)
 Esse módulo aplica a tradução para o sistema Dungeon World.
 
+## Ficha
+<table>
+<thead>
+  <tr>
+    <th>
+      <p align="center">
+        <img width="700" src="docs/demo.webp">
+      </p>
+    </th>
+  </tr>
+</thead>
+</table> 
+
 # Instruções
 1. Ativa o módulo.
 2. Selecione português do Brasil em configurações.

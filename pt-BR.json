@@ -1,4 +1,13 @@
 {
+  "TYPES.ACTOR.Character": "Personagem",
+  "TYPES.ACTOR.Npc": "PNJ",
+  "TYPES.ITEM.Move": "Movimento",
+  "TYPES.ITEM.Npcmove": "Movimento de PNJ",
+  "TYPES.ITEM.Equipment": "Equipamento",
+  "TYPES.ITEM.Spell": "Feitiço",
+  "TYPES.ITEM.Bond": "Vínculo",
+  "TYPES.ITEM.Tag": "Tag",
+  "TYPES.ITEM.Class": "Classe",                                     
   "Dungeon World": "Dungeon World",
   "DW.title": "Dungeon World",
   "DW.description": "Jogue Dungeon World no FoundryVTT!",
