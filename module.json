@@ -2,10 +2,10 @@
   "id": "dungeon-world-ptbr",
   "title": "Dungeon World - Tradução para Português (Brasil)",
   "description": "<p>Adiciona o idioma Português (Brasil) para o sistema de jogo Dungeon World.</p><p>Obs. Esse módulo traduz somente os termos relacionados ao sistema Dungeon World. Esse módulo não traduz outras partes do FoundryVTT, como a interface principal.</p>",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "compatibility": {
-    "minimum": "11",
-    "verified": "11"
+    "minimum": "12",
+    "verified": "12"
   },
   "relationships": {
     "systems": [
